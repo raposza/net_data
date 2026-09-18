@@ -1,0 +1,4 @@
+MainNet: 0.7.5 (min: 0.7)
+TestNet: 0.8.0 (min: 0.7)
+DevNet: 0.8.1 (min: 0.7)
+Splice latest: 0.8.3
