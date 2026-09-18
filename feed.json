@@ -1,7 +1,7 @@
 {
   "metadata" : {
-    "publicationId" : "pub_20260918T165850Z",
-    "createdAt" : "2026-09-18T16:58:50Z",
+    "publicationId" : "pub_20260918T170103Z",
+    "createdAt" : "2026-09-18T17:01:03Z",
     "generator" : "raposza-network-feed",
     "content" : "OBSERVED"
   },
@@ -23,8 +23,8 @@
       "status" : "CONFIRMED",
       "from" : "2026-09-21"
     },
-    "publicationId" : "pub_20260918T165850Z",
-    "updatedAt" : "2026-09-18T16:58:50Z"
+    "publicationId" : "pub_20260918T170103Z",
+    "updatedAt" : "2026-09-18T17:01:03Z"
   }, {
     "network" : "TESTNET",
     "splice" : {
@@ -43,8 +43,8 @@
       "status" : "CONFIRMED",
       "from" : "2026-09-21"
     },
-    "publicationId" : "pub_20260918T165850Z",
-    "updatedAt" : "2026-09-18T16:58:50Z"
+    "publicationId" : "pub_20260918T170103Z",
+    "updatedAt" : "2026-09-18T17:01:03Z"
   }, {
     "network" : "MAINNET",
     "splice" : {
@@ -63,8 +63,8 @@
       "status" : "CONFIRMED",
       "from" : "2026-09-21"
     },
-    "publicationId" : "pub_20260918T165850Z",
-    "updatedAt" : "2026-09-18T16:58:50Z"
+    "publicationId" : "pub_20260918T170103Z",
+    "updatedAt" : "2026-09-18T17:01:03Z"
   } ],
   "events" : [ {
     "id" : "evt_e9b0b6748a5f8921005d2cdb",
@@ -8767,7 +8767,7 @@
     "pollSeconds" : 900,
     "enabled" : true,
     "state" : "HEALTHY",
-    "lastSuccessAt" : "2026-09-18T16:46:00Z"
+    "lastSuccessAt" : "2026-09-18T17:01:02Z"
   }, {
     "id" : "splice-tags",
     "publisher" : "Splice project",
