@@ -1,7 +1,7 @@
 {
   "metadata" : {
-    "publicationId" : "pub_20260918T170205Z",
-    "createdAt" : "2026-09-18T17:02:05Z",
+    "publicationId" : "pub_20260918T170307Z",
+    "createdAt" : "2026-09-18T17:03:07Z",
     "generator" : "raposza-network-feed",
     "content" : "OBSERVED"
   },
@@ -23,8 +23,8 @@
       "status" : "CONFIRMED",
       "from" : "2026-09-21"
     },
-    "publicationId" : "pub_20260918T170205Z",
-    "updatedAt" : "2026-09-18T17:02:05Z"
+    "publicationId" : "pub_20260918T170307Z",
+    "updatedAt" : "2026-09-18T17:03:07Z"
   }, {
     "network" : "TESTNET",
     "splice" : {
@@ -43,8 +43,8 @@
       "status" : "CONFIRMED",
       "from" : "2026-09-21"
     },
-    "publicationId" : "pub_20260918T170205Z",
-    "updatedAt" : "2026-09-18T17:02:05Z"
+    "publicationId" : "pub_20260918T170307Z",
+    "updatedAt" : "2026-09-18T17:03:07Z"
   }, {
     "network" : "MAINNET",
     "splice" : {
@@ -63,8 +63,8 @@
       "status" : "CONFIRMED",
       "from" : "2026-09-21"
     },
-    "publicationId" : "pub_20260918T170205Z",
-    "updatedAt" : "2026-09-18T17:02:05Z"
+    "publicationId" : "pub_20260918T170307Z",
+    "updatedAt" : "2026-09-18T17:03:07Z"
   } ],
   "events" : [ {
     "id" : "evt_e9b0b6748a5f8921005d2cdb",
