@@ -1,4 +1,4 @@
-timestamp: 2026-09-20T20:08:24Z
+timestamp: 2026-09-20T20:13:37Z
 networks:
   mainnet:
     current: "0.8.0"
@@ -66,7 +66,7 @@ networks:
     legacy: null
     super-validators:
       - name: "C7-Technology-Services-Limited"
-        version: null
+        version: "0.8.1"
         scan: "https://scan.sv-1.test.global.canton.network.c7.digital"
       - name: "Cumberland-1"
         version: "0.8.0"
