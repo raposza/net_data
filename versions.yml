@@ -1,4 +1,4 @@
-timestamp: 2026-09-20T18:14:33Z
+timestamp: 2026-09-20T19:26:53Z
 networks:
   mainnet:
     current: "0.7.5"
@@ -53,8 +53,8 @@ networks:
         version: "0.7.5"
         scan: "https://scan.sv-1.global.canton.network.tradeweb.com"
   testnet:
-    current: "0.8.0"
-    sv-version: "0.8.0"
+    current: "0.8.1"
+    sv-version: "0.8.1"
     minimum: "0.7"
     scheduled:
       date: 2026-09-21
@@ -151,7 +151,7 @@ networks:
         version: "0.8.1"
         scan: "https://scan.sv-1.dev.global.canton.network.orb1lp.mpch.io"
       - name: "Proof-Group-1"
-        version: null
+        version: "0.8.3"
         scan: "https://scan.sv-1.dev.global.canton.network.proofgroup.xyz"
       - name: "SV-Nodeops-Limited"
         version: "0.8.1"
