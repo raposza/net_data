@@ -1,4 +1,4 @@
-timestamp: 2026-09-20T19:42:29Z
+timestamp: 2026-09-20T19:52:53Z
 networks:
   mainnet:
     current: "0.8.0"
@@ -32,7 +32,7 @@ networks:
         version: "0.7.5"
         scan: "https://scan.sv-1.global.canton.network.fivenorth.io"
       - name: "Global-Synchronizer-Foundation"
-        version: "0.7.5"
+        version: "0.8.0"
         scan: "https://scan.sv-1.global.canton.network.sync.global"
       - name: "Liberty-City-Ventures-1"
         version: "0.7.5"
