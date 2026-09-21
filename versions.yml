@@ -1,4 +1,4 @@
-timestamp: 2026-09-21T20:36:31Z
+timestamp: 2026-09-21T22:09:31Z
 networks:
   mainnet:
     current: "0.8.0"
@@ -20,7 +20,7 @@ networks:
         version: "0.7.5"
         scan: "https://scan.sv-1.global.canton.network.cumberland.io"
       - name: "Cumberland-2"
-        version: "0.7.5"
+        version: null
         scan: "https://scan.sv-2.global.canton.network.cumberland.io"
       - name: "Digital-Asset-1"
         version: "0.8.0"
@@ -66,7 +66,7 @@ networks:
     legacy: null
     super-validators:
       - name: "C7-Technology-Services-Limited"
-        version: null
+        version: "0.8.1"
         scan: "https://scan.sv-1.test.global.canton.network.c7.digital"
       - name: "Cumberland-1"
         version: "0.8.1"
