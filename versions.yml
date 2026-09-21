@@ -1,4 +1,4 @@
-timestamp: 2026-09-21T22:20:01Z
+timestamp: 2026-09-21T22:45:53Z
 networks:
   mainnet:
     current: "0.8.0"
@@ -41,7 +41,7 @@ networks:
         version: "0.8.0"
         scan: "https://scan.sv-1.global.canton.network.mpch.io"
       - name: "Orb-1-LP-1"
-        version: "0.8.0"
+        version: null
         scan: "https://scan.sv-1.global.canton.network.orb1lp.mpch.io"
       - name: "Proof-Group-1"
         version: "0.8.0"
