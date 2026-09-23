@@ -1,4 +1,4 @@
-timestamp: 2026-09-23T15:31:30Z
+timestamp: 2026-09-23T20:05:32Z
 networks:
   mainnet:
     current: "0.8.0"
@@ -50,7 +50,7 @@ networks:
         version: "0.7.5"
         scan: "https://scan.sv.global.canton.network.sv-nodeops.com"
       - name: "Tradeweb-Markets-1"
-        version: "0.7.5"
+        version: "0.8.0"
         scan: "https://scan.sv-1.global.canton.network.tradeweb.com"
   testnet:
     current: "0.8.1"
@@ -66,7 +66,7 @@ networks:
     legacy: null
     super-validators:
       - name: "C7-Technology-Services-Limited"
-        version: null
+        version: "0.8.1"
         scan: "https://scan.sv-1.test.global.canton.network.c7.digital"
       - name: "Cumberland-1"
         version: "0.8.1"
