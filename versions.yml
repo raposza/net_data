@@ -1,4 +1,4 @@
-timestamp: 2026-09-24T09:16:25Z
+timestamp: 2026-09-24T12:48:24Z
 networks:
   mainnet:
     current: "0.8.0"
@@ -127,13 +127,13 @@ networks:
         version: "0.8.3"
         scan: "https://scan.sv-2.dev.global.canton.network.cumberland.io"
       - name: "DA-Helm-Test-Node"
-        version: null
+        version: "0.8.3"
         scan: "https://scan.sv.dev.global.canton.network.digitalasset.com"
       - name: "Digital-Asset-1"
         version: "0.8.3"
         scan: "https://scan.sv-1.dev.global.canton.network.digitalasset.com"
       - name: "Digital-Asset-2"
-        version: null
+        version: "0.8.3"
         scan: "https://scan.sv-2.dev.global.canton.network.digitalasset.com"
       - name: "Five-North-1"
         version: "0.8.3"
