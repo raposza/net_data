@@ -1,4 +1,4 @@
-timestamp: 2026-09-25T15:18:26Z
+timestamp: 2026-09-25T15:23:40Z
 networks:
   mainnet:
     current: "0.8.0"
@@ -118,7 +118,7 @@ networks:
     legacy: null
     super-validators:
       - name: "C7-Technology-Services-Limited"
-        version: null
+        version: "0.8.4"
         scan: "https://scan.sv-1.dev.global.canton.network.c7.digital"
       - name: "Cumberland-1"
         version: "0.8.3"
@@ -127,7 +127,7 @@ networks:
         version: "0.8.3"
         scan: "https://scan.sv-2.dev.global.canton.network.cumberland.io"
       - name: "DA-Helm-Test-Node"
-        version: "0.8.3"
+        version: "0.8.4"
         scan: "https://scan.sv.dev.global.canton.network.digitalasset.com"
       - name: "Digital-Asset-1"
         version: "0.8.3"
