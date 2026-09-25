@@ -1,4 +1,4 @@
-timestamp: 2026-09-25T13:29:42Z
+timestamp: 2026-09-25T14:31:51Z
 networks:
   mainnet:
     current: "0.8.0"
@@ -87,7 +87,7 @@ networks:
         version: "0.8.1"
         scan: "https://scan.sv-1.test.global.canton.network.sync.global"
       - name: "Liberty-City-Ventures-1"
-        version: "0.8.1"
+        version: null
         scan: "https://scan.sv-1.test.global.canton.network.lcv.mpch.io"
       - name: "MPC-Holding-Inc"
         version: "0.8.1"
