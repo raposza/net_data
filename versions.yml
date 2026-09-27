@@ -1,4 +1,4 @@
-timestamp: 2026-09-27T22:08:17Z
+timestamp: 2026-09-27T22:18:41Z
 networks:
   mainnet:
     current: "0.8.0"
@@ -62,7 +62,7 @@ networks:
     migration-id: 1
     serial-id: 2
     chain-id-suffix: "5"
-    successor: null
+    successor: "0.8.3"
     legacy: null
     super-validators:
       - name: "C7-Technology-Services-Limited"
