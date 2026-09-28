@@ -1,4 +1,4 @@
-timestamp: 2026-09-28T09:31:49Z
+timestamp: 2026-09-28T09:37:04Z
 networks:
   mainnet:
     current: "0.8.1"
@@ -23,10 +23,10 @@ networks:
         version: "0.8.0"
         scan: "https://scan.sv-2.global.canton.network.cumberland.io"
       - name: "Digital-Asset-1"
-        version: "0.8.0"
+        version: "0.8.1"
         scan: "https://scan.sv-1.global.canton.network.digitalasset.com"
       - name: "Digital-Asset-2"
-        version: "0.8.0"
+        version: "0.8.1"
         scan: "https://scan.sv-2.global.canton.network.digitalasset.com"
       - name: "Five-North-1"
         version: "0.8.1"
