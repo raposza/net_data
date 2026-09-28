@@ -1,12 +1,12 @@
-timestamp: 2026-09-27T23:46:55Z
+timestamp: 2026-09-28T00:00:23Z
 networks:
   mainnet:
     current: "0.8.1"
     sv-version: "0.8.1"
     minimum: "0.7"
     scheduled:
-      date: 2026-09-28
-      version: "0.8.1"
+      date: 2026-10-05
+      version: "0.8.3"
     migration-id: 4
     serial-id: 5
     chain-id-suffix: "2"
@@ -55,10 +55,10 @@ networks:
   testnet:
     current: "0.8.3"
     sv-version: "0.8.3"
-    minimum: "0.7"
+    minimum: "0.8"
     scheduled:
-      date: 2026-09-28
-      version: "0.8.3"
+      date: 2026-10-05
+      version: "0.8.4"
     migration-id: 1
     serial-id: 2
     chain-id-suffix: "5"
@@ -109,8 +109,8 @@ networks:
     sv-version: "0.8.4"
     minimum: "0.8"
     scheduled:
-      date: 2026-09-28
-      version: "0.8.4"
+      date: 2026-10-05
+      version: "0.9.0"
     migration-id: 1
     serial-id: 5
     chain-id-suffix: "0"
