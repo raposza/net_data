@@ -1,4 +1,4 @@
-timestamp: 2026-09-28T16:42:07Z
+timestamp: 2026-09-28T17:18:27Z
 networks:
   mainnet:
     current: "0.8.1"
@@ -17,7 +17,7 @@ networks:
         version: "0.8.1"
         scan: "https://scan.sv-1.global.canton.network.c7.digital"
       - name: "Cumberland-1"
-        version: "0.8.0"
+        version: null
         scan: "https://scan.sv-1.global.canton.network.cumberland.io"
       - name: "Cumberland-2"
         version: "0.8.1"
