@@ -1,4 +1,4 @@
-timestamp: 2026-09-28T14:42:45Z
+timestamp: 2026-09-28T15:39:56Z
 networks:
   mainnet:
     current: "0.8.1"
@@ -121,10 +121,10 @@ networks:
         version: "0.8.4"
         scan: "https://scan.sv-1.dev.global.canton.network.c7.digital"
       - name: "Cumberland-1"
-        version: "0.8.3"
+        version: null
         scan: "https://scan.sv-1.dev.global.canton.network.cumberland.io"
       - name: "Cumberland-2"
-        version: "0.8.3"
+        version: "0.8.4"
         scan: "https://scan.sv-2.dev.global.canton.network.cumberland.io"
       - name: "DA-Helm-Test-Node"
         version: "0.8.4"
