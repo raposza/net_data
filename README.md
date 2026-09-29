@@ -83,18 +83,31 @@ The sources polled, each on its own cadence, as this publication carries
 them:
 
 - `canton-foundation-configs` - Canton Foundation, authority OFFICIAL, polled every 300 s
+  [https://github.com/canton-foundation/configs.git](https://github.com/canton-foundation/configs.git)
 - `canton-foundation-configs-runtime` - Canton Foundation, authority OFFICIAL, polled every 300 s
+  [https://github.com/canton-foundation/configs-runtime.git](https://github.com/canton-foundation/configs-runtime.git)
 - `canton-foundation-cips` - Canton Foundation, authority GOVERNANCE, polled every 3600 s
+  [https://github.com/canton-foundation/cips.git](https://github.com/canton-foundation/cips.git)
 - `canton-foundation-sv-operations-schedule` - Canton Foundation, authority OFFICIAL, polled every 300 s
+  [https://sv-cal.canton.foundation/schedule.json](https://sv-cal.canton.foundation/schedule.json)
 - `canton-foundation-binaries` - Canton Foundation, authority OFFICIAL, polled every 900 s
+  [https://github.com/canton-foundation/binaries.git](https://github.com/canton-foundation/binaries.git)
 - `splice-release-notes` - Splice project, authority OFFICIAL_PROJECT, polled every 900 s
+  [https://github.com/canton-network/splice/releases.atom](https://github.com/canton-network/splice/releases.atom)
 - `splice-tags` - Splice project, authority OFFICIAL_PROJECT, polled every 900 s
+  [https://api.github.com/repos/canton-network/splice/tags?per_page=100](https://api.github.com/repos/canton-network/splice/tags?per_page=100)
 - `sync-global-info-mainnet` - Global Synchronizer Foundation, authority OFFICIAL, polled every 300 s
+  [https://docs.global.canton.network.sync.global/info](https://docs.global.canton.network.sync.global/info)
 - `sync-global-sv-versions-mainnet` - Global Synchronizer Foundation, authority OFFICIAL, polled every 300 s
+  [https://docs.global.canton.network.sync.global/versions](https://docs.global.canton.network.sync.global/versions)
 - `sync-global-info-testnet` - Global Synchronizer Foundation, authority OFFICIAL, polled every 300 s
+  [https://docs.test.global.canton.network.sync.global/info](https://docs.test.global.canton.network.sync.global/info)
 - `sync-global-sv-versions-testnet` - Global Synchronizer Foundation, authority OFFICIAL, polled every 300 s
+  [https://docs.test.global.canton.network.sync.global/versions](https://docs.test.global.canton.network.sync.global/versions)
 - `sync-global-info-devnet` - Global Synchronizer Foundation, authority OFFICIAL, polled every 300 s
+  [https://docs.dev.global.canton.network.sync.global/info](https://docs.dev.global.canton.network.sync.global/info)
 - `sync-global-sv-versions-devnet` - Global Synchronizer Foundation, authority OFFICIAL, polled every 300 s
+  [https://docs.dev.global.canton.network.sync.global/versions](https://docs.dev.global.canton.network.sync.global/versions)
 
 Every retrieved body is stored content-addressed by its sha256 and never
 overwritten, beside one journal line per attempt recording when the attempt
