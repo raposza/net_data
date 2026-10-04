@@ -1,4 +1,4 @@
-timestamp: 2026-10-04T20:06:49Z
+timestamp: 2026-10-04T20:12:09Z
 networks:
   mainnet:
     current: "0.8.1"
@@ -41,7 +41,7 @@ networks:
         version: "0.8.1"
         scan: "https://scan.sv-1.global.canton.network.mpch.io"
       - name: "Orb-1-LP-1"
-        version: null
+        version: "0.8.1"
         scan: "https://scan.sv-1.global.canton.network.orb1lp.mpch.io"
       - name: "Proof-Group-1"
         version: "0.8.1"
@@ -54,7 +54,7 @@ networks:
         scan: "https://scan.sv-1.global.canton.network.tradeweb.com"
   testnet:
     current: "0.8.3"
-    sv-version: "0.8.3"
+    sv-version: "0.8.4"
     minimum: "0.8"
     scheduled:
       date: 2026-10-05
@@ -62,7 +62,7 @@ networks:
     migration-id: 1
     serial-id: 2
     chain-id-suffix: "5"
-    successor: "0.8.3"
+    successor: "0.8.4"
     legacy: null
     super-validators:
       - name: "C7-Technology-Services-Limited"
