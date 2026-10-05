@@ -1,4 +1,4 @@
-timestamp: 2026-10-05T02:58:13Z
+timestamp: 2026-10-05T03:03:33Z
 networks:
   mainnet:
     current: "0.8.3"
@@ -96,7 +96,7 @@ networks:
         version: "0.8.3"
         scan: "https://scan.sv-1.test.global.canton.network.orb1lp.mpch.io"
       - name: "Proof-Group-1"
-        version: null
+        version: "0.8.4"
         scan: "https://scan.sv-1.test.global.canton.network.proofgroup.xyz"
       - name: "SV-Nodeops-Limited"
         version: "0.8.3"
