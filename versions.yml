@@ -1,4 +1,4 @@
-timestamp: 2026-10-05T05:20:34Z
+timestamp: 2026-10-05T07:32:18Z
 networks:
   mainnet:
     current: "0.8.3"
@@ -81,7 +81,7 @@ networks:
         version: "0.8.3"
         scan: "https://scan.sv-2.test.global.canton.network.digitalasset.com"
       - name: "Five-North-1"
-        version: "0.8.3"
+        version: "0.8.4"
         scan: "https://scan.sv-1.test.global.canton.network.fivenorth.io"
       - name: "Global-Synchronizer-Foundation"
         version: "0.8.4"
