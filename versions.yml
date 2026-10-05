@@ -1,4 +1,4 @@
-timestamp: 2026-10-05T12:33:04Z
+timestamp: 2026-10-05T16:28:04Z
 networks:
   mainnet:
     current: "0.8.3"
@@ -159,4 +159,4 @@ networks:
       - name: "Tradeweb-Markets-1"
         version: "0.8.4"
         scan: "https://scan.sv-1.dev.global.canton.network.tradeweb.com"
-splice-latest: "0.8.4"
+splice-latest: "0.9.0"
