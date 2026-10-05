@@ -1,8 +1,8 @@
-timestamp: 2026-10-05T00:09:25Z
+timestamp: 2026-10-05T00:14:49Z
 networks:
   mainnet:
-    current: "0.8.1"
-    sv-version: "0.8.1"
+    current: "0.8.3"
+    sv-version: "0.8.3"
     minimum: "0.8"
     scheduled:
       date: 2026-10-12
