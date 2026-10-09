@@ -1,4 +1,4 @@
-timestamp: 2026-10-09T10:30:45Z
+timestamp: 2026-10-09T11:01:19Z
 networks:
   mainnet:
     current: "0.8.3"
@@ -29,7 +29,7 @@ networks:
         version: "0.8.3"
         scan: "https://scan.sv-2.global.canton.network.digitalasset.com"
       - name: "Five-North-1"
-        version: null
+        version: "0.8.3"
         scan: "https://scan.sv-1.global.canton.network.fivenorth.io"
       - name: "Global-Synchronizer-Foundation"
         version: "0.8.3"
@@ -81,7 +81,7 @@ networks:
         version: "0.8.4"
         scan: "https://scan.sv-2.test.global.canton.network.digitalasset.com"
       - name: "Five-North-1"
-        version: null
+        version: "0.8.4"
         scan: "https://scan.sv-1.test.global.canton.network.fivenorth.io"
       - name: "Global-Synchronizer-Foundation"
         version: "0.8.4"
@@ -159,4 +159,4 @@ networks:
       - name: "Tradeweb-Markets-1"
         version: "0.9.0"
         scan: "https://scan.sv-1.dev.global.canton.network.tradeweb.com"
-splice-latest: "0.9.0"
+splice-latest: "0.9.1"
