@@ -1,4 +1,4 @@
-timestamp: 2026-10-08T23:37:42Z
+timestamp: 2026-10-09T00:46:15Z
 networks:
   mainnet:
     current: "0.8.3"
@@ -10,14 +10,14 @@ networks:
     migration-id: 4
     serial-id: 5
     chain-id-suffix: "2"
-    successor: null
+    successor: "0.8.3"
     legacy: null
     super-validators:
       - name: "C7-Technology-Services-Limited"
         version: "0.8.3"
         scan: "https://scan.sv-1.global.canton.network.c7.digital"
       - name: "Cumberland-1"
-        version: null
+        version: "0.8.3"
         scan: "https://scan.sv-1.global.canton.network.cumberland.io"
       - name: "Cumberland-2"
         version: "0.8.3"
