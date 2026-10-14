@@ -1,4 +1,4 @@
-timestamp: 2026-10-14T15:59:05Z
+timestamp: 2026-10-14T17:07:46Z
 networks:
   mainnet:
     current: "0.8.4"
@@ -50,7 +50,7 @@ networks:
         version: "0.8.4"
         scan: "https://scan.sv.global.canton.network.sv-nodeops.com"
       - name: "Tradeweb-Markets-1"
-        version: "0.8.3"
+        version: "0.8.4"
         scan: "https://scan.sv-1.global.canton.network.tradeweb.com"
   testnet:
     current: "0.9.0"
@@ -154,7 +154,7 @@ networks:
         version: "0.9.1"
         scan: "https://scan.sv-1.dev.global.canton.network.proofgroup.xyz"
       - name: "SV-Nodeops-Limited"
-        version: null
+        version: "0.9.1"
         scan: "https://scan.sv.dev.global.canton.network.sv-nodeops.com"
       - name: "Tradeweb-Markets-1"
         version: "0.9.1"
