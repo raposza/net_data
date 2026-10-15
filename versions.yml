@@ -1,4 +1,4 @@
-timestamp: 2026-10-15T01:45:03Z
+timestamp: 2026-10-15T05:53:05Z
 networks:
   mainnet:
     current: "0.8.4"
@@ -44,7 +44,7 @@ networks:
         version: "0.8.4"
         scan: "https://scan.sv-1.global.canton.network.orb1lp.mpch.io"
       - name: "Proof-Group-1"
-        version: null
+        version: "0.8.4"
         scan: "https://scan.sv-1.global.canton.network.proofgroup.xyz"
       - name: "SV-Nodeops-Limited"
         version: "0.8.4"
@@ -118,7 +118,7 @@ networks:
     legacy: null
     super-validators:
       - name: "C7-Technology-Services-Limited"
-        version: "0.9.1"
+        version: null
         scan: "https://scan.sv-1.dev.global.canton.network.c7.digital"
       - name: "Cumberland-1"
         version: "0.9.1"
