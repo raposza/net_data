@@ -116,6 +116,7 @@ legacy, and one above it successor.
 | [canton-foundation-binaries](<https://github.com/canton-foundation/binaries.git>) | Canton Foundation | OFFICIAL | 900 s |
 | [splice-release-notes](<https://github.com/canton-network/splice/releases.atom>) | Splice project | OFFICIAL\_PROJECT | 900 s |
 | [splice-tags](<https://api.github.com/repos/canton-network/splice/tags?per_page=100>) | Splice project | OFFICIAL\_PROJECT | 900 s |
+| [cf-docs-splice-release-notes](<https://github.com/canton-network/cf-docs.git>) | Canton Network | OFFICIAL | 900 s |
 | [sync-global-info-mainnet](<https://docs.global.canton.network.sync.global/info>) | Global Synchronizer Foundation | OFFICIAL | 300 s |
 | [sync-global-sv-versions-mainnet](<https://docs.global.canton.network.sync.global/versions>) | Global Synchronizer Foundation | OFFICIAL | 300 s |
 | [sync-global-dso-mainnet](<https://docs.global.canton.network.sync.global/dso>) | Global Synchronizer Foundation | OFFICIAL | 300 s |
@@ -128,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-18T06:25:48Z.
+Values as of 2026-10-18T10:08:05Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.

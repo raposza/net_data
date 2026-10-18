@@ -103,6 +103,8 @@ them:
   [https://github.com/canton-network/splice/releases.atom](https://github.com/canton-network/splice/releases.atom)
 - `splice-tags` - Splice project, authority OFFICIAL_PROJECT, polled every 900 s
   [https://api.github.com/repos/canton-network/splice/tags?per_page=100](https://api.github.com/repos/canton-network/splice/tags?per_page=100)
+- `cf-docs-splice-release-notes` - Canton Network, authority OFFICIAL, polled every 900 s
+  [https://github.com/canton-network/cf-docs.git](https://github.com/canton-network/cf-docs.git)
 - `sync-global-info-mainnet` - Global Synchronizer Foundation, authority OFFICIAL, polled every 300 s
   [https://docs.global.canton.network.sync.global/info](https://docs.global.canton.network.sync.global/info)
 - `sync-global-sv-versions-mainnet` - Global Synchronizer Foundation, authority OFFICIAL, polled every 300 s
