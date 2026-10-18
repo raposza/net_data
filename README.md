@@ -32,7 +32,7 @@ document states.
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DevNet | 0.9.1 | 8 / 14 | 2026-10-12 | 0.8 | 0.9.2 | 2026-10-19 | 0.9.2 |
-| TestNet | 0.9.0 | 12 / 13 | 2026-10-12 | 0.8 | 0.9.1 | 2026-10-19 | 0.9.1 |
+| TestNet | 0.9.0 | 11 / 13 | 2026-10-12 | 0.8 | 0.9.1 | 2026-10-19 | 0.9.1 |
 | MainNet | 0.8.4 | 12 / 13 | 2026-10-12 | 0.8 | 0.9.0 | 2026-10-19 | 0.9.0 |
 
 ## Super Validators
@@ -67,11 +67,11 @@ legacy, and one above it successor.
 
 ### TestNet
 
-13 nodes, serial 3: 12 on 0.9.0, 1 on 0.9.1.
+13 nodes, serial 3: 11 on 0.9.0, 2 on 0.9.1.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
-| C7-Technology-Services-Limited | 0.9.0 | scan.sv-1.test.global.canton.network.c7.digital | 3: sequencer-3.sv-1.test.global.canton.network.c7.digital<br>2: sequencer-2.sv-1.test.global.canton.network.c7.digital *(legacy)* |
+| C7-Technology-Services-Limited | 0.9.1 | scan.sv-1.test.global.canton.network.c7.digital | 3: sequencer-3.sv-1.test.global.canton.network.c7.digital<br>2: sequencer-2.sv-1.test.global.canton.network.c7.digital *(legacy)* |
 | Cumberland-1 | 0.9.0 | scan.sv-1.test.global.canton.network.cumberland.io | 3: sequencer-3.sv-1.test.global.canton.network.cumberland.io<br>2: sequencer-2.sv-1.test.global.canton.network.cumberland.io *(legacy)* |
 | Cumberland-2 | 0.9.0 | scan.sv-2.test.global.canton.network.cumberland.io | 3: sequencer-3.sv-2.test.global.canton.network.cumberland.io<br>2: sequencer-2.sv-2.test.global.canton.network.cumberland.io *(legacy)* |
 | Digital-Asset-1 | 0.9.0 | scan.sv-1.test.global.canton.network.digitalasset.com | 3: sequencer-3.sv-1.test.global.canton.network.digitalasset.com<br>2: sequencer-2.sv-1.test.global.canton.network.digitalasset.com *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-18T19:32:53Z.
+Values as of 2026-10-18T19:43:35Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
