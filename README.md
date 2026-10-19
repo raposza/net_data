@@ -31,7 +31,7 @@ document states.
 
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DevNet | 0.9.2 | 6 / 14 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-26 | 0.9.2 |
+| DevNet | 0.9.2 | 7 / 14 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-26 | 0.9.2 |
 | TestNet | 0.9.1 | 3 / 13 | 2026-10-19 | 0.8 | 0.9.2 | 2026-10-26 | 0.9.1 |
 | MainNet | 0.9.0 | 3 / 13 | 2026-10-19 | 0.8 | 0.9.1 | 2026-10-26 | 0.9.0 |
 
@@ -46,7 +46,7 @@ legacy, and one above it successor.
 
 ### DevNet
 
-14 nodes, serial 5: 8 on 0.9.1, 6 on 0.9.2.
+14 nodes, serial 5: 7 on 0.9.2, 7 on 0.9.1.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ legacy, and one above it successor.
 | MPC-Holding-Inc | 0.9.1 | scan.sv-1.dev.global.canton.network.mpch.io | 5: sequencer-5.sv-1.dev.global.canton.network.mpch.io |
 | Orb-1-LP-1 | 0.9.1 | scan.sv-1.dev.global.canton.network.orb1lp.mpch.io | 5: sequencer-5.sv-1.dev.global.canton.network.orb1lp.mpch.io |
 | Proof-Group-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.proofgroup.xyz | 5: sequencer-5.sv-1.dev.global.canton.network.proofgroup.xyz |
-| SV-Nodeops-Limited | 0.9.1 | scan.sv.dev.global.canton.network.sv-nodeops.com | 5: sequencer-5.sv.dev.global.canton.network.sv-nodeops.com |
+| SV-Nodeops-Limited | 0.9.2 | scan.sv.dev.global.canton.network.sv-nodeops.com | 5: sequencer-5.sv.dev.global.canton.network.sv-nodeops.com |
 | Tradeweb-Markets-1 | 0.9.1 | scan.sv-1.dev.global.canton.network.tradeweb.com | 5: sequencer-5.sv-1.dev.global.canton.network.tradeweb.com<br>3: sequencer-3.sv-1.dev.global.canton.network.tradeweb.com *(legacy)* |
 
 ### TestNet
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-19T02:22:30Z.
+Values as of 2026-10-19T03:20:10Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
