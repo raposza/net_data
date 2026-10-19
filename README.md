@@ -31,7 +31,7 @@ document states.
 
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DevNet | 0.9.2 | 9 / 14 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-26 | 0.9.2 |
+| DevNet | 0.9.2 | 10 / 14 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-26 | 0.9.2 |
 | TestNet | 0.9.1 | 6 / 13 | 2026-10-19 | 0.8 | 0.9.2 | 2026-10-26 | 0.9.1 |
 | MainNet | 0.9.0 | 7 / 13 | 2026-10-19 | 0.8 | 0.9.1 | 2026-10-26 | 0.9.0 |
 
@@ -46,7 +46,7 @@ legacy, and one above it successor.
 
 ### DevNet
 
-14 nodes, serial 5: 9 on 0.9.2, 5 on 0.9.1.
+14 nodes, serial 5: 10 on 0.9.2, 4 on 0.9.1.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
@@ -59,7 +59,7 @@ legacy, and one above it successor.
 | Five-North-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.fivenorth.io | 5: sequencer-5.sv-1.dev.global.canton.network.fivenorth.io |
 | Global-Synchronizer-Foundation | 0.9.2 | scan.sv-1.dev.global.canton.network.sync.global | 5: sequencer-5.sv-1.dev.global.canton.network.sync.global |
 | Liberty-City-Ventures-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.lcv.mpch.io | 5: sequencer-5.sv-1.dev.global.canton.network.lcv.mpch.io |
-| MPC-Holding-Inc | 0.9.1 | scan.sv-1.dev.global.canton.network.mpch.io | 5: sequencer-5.sv-1.dev.global.canton.network.mpch.io |
+| MPC-Holding-Inc | 0.9.2 | scan.sv-1.dev.global.canton.network.mpch.io | 5: sequencer-5.sv-1.dev.global.canton.network.mpch.io |
 | Orb-1-LP-1 | 0.9.1 | scan.sv-1.dev.global.canton.network.orb1lp.mpch.io | 5: sequencer-5.sv-1.dev.global.canton.network.orb1lp.mpch.io |
 | Proof-Group-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.proofgroup.xyz | 5: sequencer-5.sv-1.dev.global.canton.network.proofgroup.xyz |
 | SV-Nodeops-Limited | 0.9.2 | scan.sv.dev.global.canton.network.sv-nodeops.com | 5: sequencer-5.sv.dev.global.canton.network.sv-nodeops.com |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-19T12:13:00Z.
+Values as of 2026-10-19T12:18:23Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
