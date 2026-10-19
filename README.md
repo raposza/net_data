@@ -63,7 +63,7 @@ legacy, and one above it successor.
 | Orb-1-LP-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.orb1lp.mpch.io | 5: sequencer-5.sv-1.dev.global.canton.network.orb1lp.mpch.io |
 | Proof-Group-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.proofgroup.xyz | 5: sequencer-5.sv-1.dev.global.canton.network.proofgroup.xyz |
 | SV-Nodeops-Limited | 0.9.2 | scan.sv.dev.global.canton.network.sv-nodeops.com | 5: sequencer-5.sv.dev.global.canton.network.sv-nodeops.com |
-| Tradeweb-Markets-1 | 0.9.1 | scan.sv-1.dev.global.canton.network.tradeweb.com | 5: sequencer-5.sv-1.dev.global.canton.network.tradeweb.com<br>3: sequencer-3.sv-1.dev.global.canton.network.tradeweb.com *(legacy)* |
+| Tradeweb-Markets-1 | 0.9.1 | scan.sv-1.dev.global.canton.network.tradeweb.com | 5: sequencer-5.sv-1.dev.global.canton.network.tradeweb.com |
 
 ### TestNet
 
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-19T14:47:48Z.
+Values as of 2026-10-19T17:59:25Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
