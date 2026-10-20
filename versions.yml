@@ -1,4 +1,4 @@
-timestamp: 2026-10-20T14:08:40Z
+timestamp: 2026-10-20T14:14:04Z
 networks:
   mainnet:
     current:
@@ -335,6 +335,9 @@ networks:
         version: "0.9.2"
         scan: "https://scan.sv-2.dev.global.canton.network.cumberland.io"
         sequencers:
+          - serial: 6
+            url: "https://sequencer-6.sv-2.dev.global.canton.network.cumberland.io"
+            role: successor
           - serial: 5
             url: "https://sequencer-5.sv-2.dev.global.canton.network.cumberland.io"
             role: null
@@ -396,6 +399,9 @@ networks:
         version: "0.9.2"
         scan: "https://scan.sv-1.dev.global.canton.network.mpch.io"
         sequencers:
+          - serial: 6
+            url: "https://sequencer-6.sv-1.dev.global.canton.network.mpch.io"
+            role: successor
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.mpch.io"
             role: null
@@ -403,6 +409,9 @@ networks:
         version: "0.9.2"
         scan: "https://scan.sv-1.dev.global.canton.network.orb1lp.mpch.io"
         sequencers:
+          - serial: 6
+            url: "https://sequencer-6.sv-1.dev.global.canton.network.orb1lp.mpch.io"
+            role: successor
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.orb1lp.mpch.io"
             role: null
