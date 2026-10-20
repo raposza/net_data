@@ -31,8 +31,8 @@ document states.
 
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DevNet | 0.9.2 | 12 / 14 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
-| TestNet | 0.9.1 | 10 / 13 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
+| DevNet | 0.9.2 | 11 / 14 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
+| TestNet | 0.9.1 | 9 / 13 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
 | MainNet | 0.8.4 | 8 / 13 | 2026-10-12 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
 
 ## Super Validators
@@ -46,7 +46,7 @@ legacy, and one above it successor.
 
 ### DevNet
 
-14 nodes, serial 5: 12 on 0.9.2, 2 on 0.9.3.
+14 nodes, serial 5: 11 on 0.9.2, 3 on 0.9.3.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ legacy, and one above it successor.
 | Digital-Asset-2 | 0.9.2 | scan.sv-2.dev.global.canton.network.digitalasset.com | 6: sequencer-6.sv-2.dev.global.canton.network.digitalasset.com *(successor)*<br>5: sequencer-5.sv-2.dev.global.canton.network.digitalasset.com |
 | Five-North-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.fivenorth.io | 6: sequencer-6.sv-1.dev.global.canton.network.fivenorth.io *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.fivenorth.io |
 | Global-Synchronizer-Foundation | 0.9.3 | scan.sv-1.dev.global.canton.network.sync.global | 6: sequencer-6.sv-1.dev.global.canton.network.sync.global *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.sync.global |
-| Liberty-City-Ventures-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.lcv.mpch.io | 6: sequencer-6.sv-1.dev.global.canton.network.lcv.mpch.io *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.lcv.mpch.io |
+| Liberty-City-Ventures-1 | 0.9.3 | scan.sv-1.dev.global.canton.network.lcv.mpch.io | 6: sequencer-6.sv-1.dev.global.canton.network.lcv.mpch.io *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.lcv.mpch.io |
 | MPC-Holding-Inc | 0.9.2 | scan.sv-1.dev.global.canton.network.mpch.io | 6: sequencer-6.sv-1.dev.global.canton.network.mpch.io *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.mpch.io |
 | Orb-1-LP-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.orb1lp.mpch.io | 6: sequencer-6.sv-1.dev.global.canton.network.orb1lp.mpch.io *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.orb1lp.mpch.io |
 | Proof-Group-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.proofgroup.xyz | 5: sequencer-5.sv-1.dev.global.canton.network.proofgroup.xyz |
@@ -67,7 +67,7 @@ legacy, and one above it successor.
 
 ### TestNet
 
-13 nodes, serial 3: 10 on 0.9.1, 2 on 0.9.3, 1 on 0.9.0.
+13 nodes, serial 3: 9 on 0.9.1, 3 on 0.9.3, 1 on 0.9.0.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ legacy, and one above it successor.
 | Digital-Asset-2 | 0.9.1 | scan.sv-2.test.global.canton.network.digitalasset.com | 3: sequencer-3.sv-2.test.global.canton.network.digitalasset.com<br>2: sequencer-2.sv-2.test.global.canton.network.digitalasset.com *(legacy)* |
 | Five-North-1 | 0.9.1 | scan.sv-1.test.global.canton.network.fivenorth.io | 3: sequencer-3.sv-1.test.global.canton.network.fivenorth.io<br>2: sequencer-2.sv-1.test.global.canton.network.fivenorth.io *(legacy)* |
 | Global-Synchronizer-Foundation | 0.9.3 | scan.sv-1.test.global.canton.network.sync.global | 3: sequencer-3.sv-1.test.global.canton.network.sync.global<br>2: sequencer-2.sv-1.test.global.canton.network.sync.global *(legacy)* |
-| Liberty-City-Ventures-1 | 0.9.1 | scan.sv-1.test.global.canton.network.lcv.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.lcv.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.lcv.mpch.io *(legacy)* |
+| Liberty-City-Ventures-1 | 0.9.3 | scan.sv-1.test.global.canton.network.lcv.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.lcv.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.lcv.mpch.io *(legacy)* |
 | MPC-Holding-Inc | 0.9.1 | scan.sv-1.test.global.canton.network.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.mpch.io *(legacy)* |
 | Orb-1-LP-1 | 0.9.1 | scan.sv-1.test.global.canton.network.orb1lp.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.orb1lp.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.orb1lp.mpch.io *(legacy)* |
 | Proof-Group-1 | 0.9.1 | scan.sv-1.test.global.canton.network.proofgroup.xyz | 3: sequencer-3.sv-1.test.global.canton.network.proofgroup.xyz<br>2: sequencer-2.sv-1.test.global.canton.network.proofgroup.xyz *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-20T14:14:04Z.
+Values as of 2026-10-20T14:19:31Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
