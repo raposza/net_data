@@ -33,7 +33,7 @@ document states.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DevNet | 0.9.2 | 4 / 14 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
 | TestNet | 0.9.1 | 2 / 13 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
-| MainNet | 0.8.4 | 4 / 13 | 2026-10-12 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
+| MainNet | 0.8.4 | 2 / 13 | 2026-10-12 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
 
 ## Super Validators
 
@@ -87,13 +87,13 @@ legacy, and one above it successor.
 
 ### MainNet
 
-13 nodes, serial 6: 8 on 0.9.3, 4 on 0.8.4, 1 on 0.9.0.
+13 nodes, serial 6: 10 on 0.9.3, 2 on 0.8.4, 1 on 0.9.0.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
 | C7-Technology-Services-Limited | 0.9.3 | scan.sv-1.global.canton.network.c7.digital | 6: sequencer-6.sv-1.global.canton.network.c7.digital<br>5: sequencer-5.sv-1.global.canton.network.c7.digital *(legacy)* |
-| Cumberland-1 | 0.8.4 | scan.sv-1.global.canton.network.cumberland.io | 6: sequencer-6.sv-1.global.canton.network.cumberland.io<br>5: sequencer-5.sv-1.global.canton.network.cumberland.io *(legacy)* |
-| Cumberland-2 | 0.8.4 | scan.sv-2.global.canton.network.cumberland.io | 6: sequencer-6.sv-2.global.canton.network.cumberland.io<br>5: sequencer-5.sv-2.global.canton.network.cumberland.io *(legacy)* |
+| Cumberland-1 | 0.9.3 | scan.sv-1.global.canton.network.cumberland.io | 6: sequencer-6.sv-1.global.canton.network.cumberland.io<br>5: sequencer-5.sv-1.global.canton.network.cumberland.io *(legacy)* |
+| Cumberland-2 | 0.9.3 | scan.sv-2.global.canton.network.cumberland.io | 6: sequencer-6.sv-2.global.canton.network.cumberland.io<br>5: sequencer-5.sv-2.global.canton.network.cumberland.io *(legacy)* |
 | Digital-Asset-1 | 0.9.3 | scan.sv-1.global.canton.network.digitalasset.com | 6: sequencer-6.sv-1.global.canton.network.digitalasset.com<br>5: sequencer-5.sv-1.global.canton.network.digitalasset.com *(legacy)* |
 | Digital-Asset-2 | 0.9.3 | scan.sv-2.global.canton.network.digitalasset.com | 6: sequencer-6.sv-2.global.canton.network.digitalasset.com<br>5: sequencer-5.sv-2.global.canton.network.digitalasset.com *(legacy)* |
 | Five-North-1 | 0.9.3 | scan.sv-1.global.canton.network.fivenorth.io | 6: sequencer-6.sv-1.global.canton.network.fivenorth.io<br>5: sequencer-5.sv-1.global.canton.network.fivenorth.io *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-20T16:39:50Z.
+Values as of 2026-10-20T17:01:21Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
