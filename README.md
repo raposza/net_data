@@ -33,7 +33,7 @@ document states.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DevNet | 0.9.2 | 10 / 14 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
 | TestNet | 0.9.1 | 8 / 13 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
-| MainNet | 0.8.4 | 8 / 13 | 2026-10-12 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
+| MainNet | 0.8.4 | 7 / 13 | 2026-10-12 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
 
 ## Super Validators
 
@@ -87,7 +87,7 @@ legacy, and one above it successor.
 
 ### MainNet
 
-13 nodes, serial 6: 8 on 0.8.4, 3 on 0.9.3, 2 on 0.9.0.
+13 nodes, serial 6: 7 on 0.8.4, 4 on 0.9.3, 2 on 0.9.0.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
@@ -99,7 +99,7 @@ legacy, and one above it successor.
 | Five-North-1 | 0.9.0 | scan.sv-1.global.canton.network.fivenorth.io | 6: sequencer-6.sv-1.global.canton.network.fivenorth.io<br>5: sequencer-5.sv-1.global.canton.network.fivenorth.io *(legacy)* |
 | Global-Synchronizer-Foundation | 0.9.3 | scan.sv-1.global.canton.network.sync.global | 6: sequencer-6.sv-1.global.canton.network.sync.global<br>5: sequencer-5.sv-1.global.canton.network.sync.global *(legacy)* |
 | Liberty-City-Ventures-1 | 0.9.3 | scan.sv-1.global.canton.network.lcv.mpch.io | 6: sequencer-6.sv-1.global.canton.network.lcv.mpch.io<br>5: sequencer-5.sv-1.global.canton.network.lcv.mpch.io *(legacy)* |
-| MPC-Holding-Inc | 0.8.4 | scan.sv-1.global.canton.network.mpch.io | 6: sequencer-6.sv-1.global.canton.network.mpch.io<br>5: sequencer-5.sv-1.global.canton.network.mpch.io *(legacy)* |
+| MPC-Holding-Inc | 0.9.3 | scan.sv-1.global.canton.network.mpch.io | 6: sequencer-6.sv-1.global.canton.network.mpch.io<br>5: sequencer-5.sv-1.global.canton.network.mpch.io *(legacy)* |
 | Orb-1-LP-1 | 0.8.4 | scan.sv-1.global.canton.network.orb1lp.mpch.io | 6: sequencer-6.sv-1.global.canton.network.orb1lp.mpch.io<br>5: sequencer-5.sv-1.global.canton.network.orb1lp.mpch.io *(legacy)* |
 | Proof-Group-1 | 0.8.4 | scan.sv-1.global.canton.network.proofgroup.xyz | 6: sequencer-6.sv-1.global.canton.network.proofgroup.xyz<br>5: sequencer-5.sv-1.global.canton.network.proofgroup.xyz *(legacy)* |
 | SV-Nodeops-Limited | 0.9.0 | scan.sv.global.canton.network.sv-nodeops.com | 6: sequencer-6.sv.global.canton.network.sv-nodeops.com<br>5: sequencer-5.sv.global.canton.network.sv-nodeops.com *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-20T14:30:20Z.
+Values as of 2026-10-20T14:41:04Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
