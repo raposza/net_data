@@ -1,4 +1,4 @@
-timestamp: 2026-10-20T12:53:15Z
+timestamp: 2026-10-20T13:04:00Z
 networks:
   mainnet:
     current:
@@ -19,7 +19,7 @@ networks:
     legacy: "0.8.3"
     super-validators:
       - name: "C7-Technology-Services-Limited"
-        version: "0.9.0"
+        version: "0.9.3"
         scan: "https://scan.sv-1.global.canton.network.c7.digital"
         sequencers:
           - serial: 6

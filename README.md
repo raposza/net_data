@@ -87,11 +87,11 @@ legacy, and one above it successor.
 
 ### MainNet
 
-13 nodes, serial 6: 8 on 0.8.4, 5 on 0.9.0.
+13 nodes, serial 6: 8 on 0.8.4, 4 on 0.9.0, 1 on 0.9.3.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
-| C7-Technology-Services-Limited | 0.9.0 | scan.sv-1.global.canton.network.c7.digital | 6: sequencer-6.sv-1.global.canton.network.c7.digital<br>5: sequencer-5.sv-1.global.canton.network.c7.digital *(legacy)* |
+| C7-Technology-Services-Limited | 0.9.3 | scan.sv-1.global.canton.network.c7.digital | 6: sequencer-6.sv-1.global.canton.network.c7.digital<br>5: sequencer-5.sv-1.global.canton.network.c7.digital *(legacy)* |
 | Cumberland-1 | 0.8.4 | scan.sv-1.global.canton.network.cumberland.io | 6: sequencer-6.sv-1.global.canton.network.cumberland.io<br>5: sequencer-5.sv-1.global.canton.network.cumberland.io *(legacy)* |
 | Cumberland-2 | 0.8.4 | scan.sv-2.global.canton.network.cumberland.io | 6: sequencer-6.sv-2.global.canton.network.cumberland.io<br>5: sequencer-5.sv-2.global.canton.network.cumberland.io *(legacy)* |
 | Digital-Asset-1 | 0.8.4 | scan.sv-1.global.canton.network.digitalasset.com | 6: sequencer-6.sv-1.global.canton.network.digitalasset.com<br>5: sequencer-5.sv-1.global.canton.network.digitalasset.com *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-20T12:53:15Z.
+Values as of 2026-10-20T13:04:00Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
