@@ -1,4 +1,4 @@
-timestamp: 2026-10-20T11:56:28Z
+timestamp: 2026-10-20T12:37:01Z
 networks:
   mainnet:
     current:
@@ -308,10 +308,10 @@ networks:
       version: "0.9.3"
       date: 2026-10-21
       status: CONFIRMED
-    reported: "0.9.2"
+    reported: "0.9.3"
     migration-id: 1
     serial-id: 5
-    successor: "0.9.2"
+    successor: "0.9.3"
     legacy: null
     super-validators:
       - name: "C7-Technology-Services-Limited"
