@@ -1,4 +1,4 @@
-timestamp: 2026-10-20T14:03:13Z
+timestamp: 2026-10-20T14:08:40Z
 networks:
   mainnet:
     current:
@@ -356,6 +356,9 @@ networks:
         version: "0.9.2"
         scan: "https://scan.sv-2.dev.global.canton.network.digitalasset.com"
         sequencers:
+          - serial: 6
+            url: "https://sequencer-6.sv-2.dev.global.canton.network.digitalasset.com"
+            role: successor
           - serial: 5
             url: "https://sequencer-5.sv-2.dev.global.canton.network.digitalasset.com"
             role: null
@@ -383,6 +386,9 @@ networks:
         version: "0.9.2"
         scan: "https://scan.sv-1.dev.global.canton.network.lcv.mpch.io"
         sequencers:
+          - serial: 6
+            url: "https://sequencer-6.sv-1.dev.global.canton.network.lcv.mpch.io"
+            role: successor
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.lcv.mpch.io"
             role: null

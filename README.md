@@ -55,10 +55,10 @@ legacy, and one above it successor.
 | Cumberland-2 | 0.9.2 | scan.sv-2.dev.global.canton.network.cumberland.io | 5: sequencer-5.sv-2.dev.global.canton.network.cumberland.io |
 | DA-Helm-Test-Node | 0.9.2 | scan.sv.dev.global.canton.network.digitalasset.com | 5: sequencer-5.sv.dev.global.canton.network.digitalasset.com |
 | Digital-Asset-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.digitalasset.com | 5: sequencer-5.sv-1.dev.global.canton.network.digitalasset.com |
-| Digital-Asset-2 | 0.9.2 | scan.sv-2.dev.global.canton.network.digitalasset.com | 5: sequencer-5.sv-2.dev.global.canton.network.digitalasset.com |
+| Digital-Asset-2 | 0.9.2 | scan.sv-2.dev.global.canton.network.digitalasset.com | 6: sequencer-6.sv-2.dev.global.canton.network.digitalasset.com *(successor)*<br>5: sequencer-5.sv-2.dev.global.canton.network.digitalasset.com |
 | Five-North-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.fivenorth.io | 6: sequencer-6.sv-1.dev.global.canton.network.fivenorth.io *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.fivenorth.io |
 | Global-Synchronizer-Foundation | 0.9.3 | scan.sv-1.dev.global.canton.network.sync.global | 6: sequencer-6.sv-1.dev.global.canton.network.sync.global *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.sync.global |
-| Liberty-City-Ventures-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.lcv.mpch.io | 5: sequencer-5.sv-1.dev.global.canton.network.lcv.mpch.io |
+| Liberty-City-Ventures-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.lcv.mpch.io | 6: sequencer-6.sv-1.dev.global.canton.network.lcv.mpch.io *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.lcv.mpch.io |
 | MPC-Holding-Inc | 0.9.2 | scan.sv-1.dev.global.canton.network.mpch.io | 5: sequencer-5.sv-1.dev.global.canton.network.mpch.io |
 | Orb-1-LP-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.orb1lp.mpch.io | 5: sequencer-5.sv-1.dev.global.canton.network.orb1lp.mpch.io |
 | Proof-Group-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.proofgroup.xyz | 5: sequencer-5.sv-1.dev.global.canton.network.proofgroup.xyz |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-20T14:03:13Z.
+Values as of 2026-10-20T14:08:40Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
