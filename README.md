@@ -31,7 +31,7 @@ document states.
 
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DevNet | 0.9.2 | 3 / 14 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
+| DevNet | 0.9.2 | 2 / 14 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
 | TestNet | 0.9.1 | 1 / 13 | 2026-10-19 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
 | MainNet | 0.8.4 | 1 / 13 | 2026-10-12 | 0.8 | 0.9.3 | 2026-10-21 | 0.9.3 |
 
@@ -46,7 +46,7 @@ legacy, and one above it successor.
 
 ### DevNet
 
-14 nodes, serial 5: 11 on 0.9.3, 3 on 0.9.2.
+14 nodes, serial 5: 12 on 0.9.3, 2 on 0.9.2.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ legacy, and one above it successor.
 | Orb-1-LP-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.orb1lp.mpch.io | 6: sequencer-6.sv-1.dev.global.canton.network.orb1lp.mpch.io *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.orb1lp.mpch.io |
 | Proof-Group-1 | 0.9.3 | scan.sv-1.dev.global.canton.network.proofgroup.xyz | 6: sequencer-6.sv-1.dev.global.canton.network.proofgroup.xyz *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.proofgroup.xyz |
 | SV-Nodeops-Limited | 0.9.2 | scan.sv.dev.global.canton.network.sv-nodeops.com | 6: sequencer-6.sv.dev.global.canton.network.sv-nodeops.com *(successor)*<br>5: sequencer-5.sv.dev.global.canton.network.sv-nodeops.com |
-| Tradeweb-Markets-1 | 0.9.2 | scan.sv-1.dev.global.canton.network.tradeweb.com | 6: sequencer-6.sv-1.dev.global.canton.network.tradeweb.com *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.tradeweb.com |
+| Tradeweb-Markets-1 | 0.9.3 | scan.sv-1.dev.global.canton.network.tradeweb.com | 6: sequencer-6.sv-1.dev.global.canton.network.tradeweb.com *(successor)*<br>5: sequencer-5.sv-1.dev.global.canton.network.tradeweb.com |
 
 ### TestNet
 
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-20T18:05:39Z.
+Values as of 2026-10-20T18:32:25Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
