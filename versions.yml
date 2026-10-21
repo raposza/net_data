@@ -1,11 +1,11 @@
-timestamp: 2026-10-21T02:13:30Z
+timestamp: 2026-10-21T02:45:39Z
 networks:
   mainnet:
     current:
       version: "0.9.3"
       since: 2026-10-21
     svs-on-current:
-      count: 11
+      count: 12
       of: 13
     minimum: "0.8"
     next:
@@ -129,7 +129,7 @@ networks:
             url: "https://sequencer-5.sv-1.global.canton.network.proofgroup.xyz"
             role: legacy
       - name: "SV-Nodeops-Limited"
-        version: "0.9.0"
+        version: "0.9.3"
         scan: "https://scan.sv.global.canton.network.sv-nodeops.com"
         sequencers:
           - serial: 6
