@@ -1,4 +1,4 @@
-timestamp: 2026-10-23T12:53:45Z
+timestamp: 2026-10-23T14:46:35Z
 networks:
   mainnet:
     current:
@@ -298,7 +298,7 @@ networks:
       version: "0.9.3"
       since: 2026-10-21
     svs-on-current:
-      count: 13
+      count: 10
       of: 14
     minimum: "0.8"
     next:
@@ -342,7 +342,7 @@ networks:
             url: "https://sequencer-5.sv-2.dev.global.canton.network.cumberland.io"
             role: null
       - name: "DA-Helm-Test-Node"
-        version: "0.9.3"
+        version: "0.9.4"
         scan: "https://scan.sv.dev.global.canton.network.digitalasset.com"
         sequencers:
           - serial: 6
@@ -352,7 +352,7 @@ networks:
             url: "https://sequencer-5.sv.dev.global.canton.network.digitalasset.com"
             role: null
       - name: "Digital-Asset-1"
-        version: "0.9.3"
+        version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.digitalasset.com"
         sequencers:
           - serial: 6
@@ -362,7 +362,7 @@ networks:
             url: "https://sequencer-5.sv-1.dev.global.canton.network.digitalasset.com"
             role: null
       - name: "Digital-Asset-2"
-        version: "0.9.3"
+        version: "0.9.4"
         scan: "https://scan.sv-2.dev.global.canton.network.digitalasset.com"
         sequencers:
           - serial: 6
