@@ -1,4 +1,4 @@
-timestamp: 2026-10-23T14:46:35Z
+timestamp: 2026-10-26T00:00:37Z
 networks:
   mainnet:
     current:
@@ -295,15 +295,15 @@ networks:
             role: legacy
   devnet:
     current:
-      version: "0.9.3"
-      since: 2026-10-21
+      version: "0.9.4"
+      since: 2026-10-26
     svs-on-current:
-      count: 10
+      count: 4
       of: 14
     minimum: "0.8"
     next:
-      version: "0.9.4"
-      date: 2026-10-26
+      version: "0.10.0"
+      date: 2026-11-02
       status: CONFIRMED
     reported: "0.9.3"
     migration-id: 1
