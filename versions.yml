@@ -1,4 +1,4 @@
-timestamp: 2026-10-26T21:01:14Z
+timestamp: 2026-10-26T21:12:02Z
 networks:
   mainnet:
     current:
@@ -298,7 +298,7 @@ networks:
       version: "0.9.4"
       since: 2026-10-26
     svs-on-current:
-      count: 12
+      count: 13
       of: 14
     minimum: "0.8"
     next:
@@ -332,7 +332,7 @@ networks:
             url: "https://sequencer-5.sv-1.dev.global.canton.network.cumberland.io"
             role: null
       - name: "Cumberland-2"
-        version: "0.9.3"
+        version: "0.9.4"
         scan: "https://scan.sv-2.dev.global.canton.network.cumberland.io"
         sequencers:
           - serial: 6
