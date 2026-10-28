@@ -1,4 +1,4 @@
-timestamp: 2026-10-28T09:23:17Z
+timestamp: 2026-10-28T22:05:02Z
 networks:
   mainnet:
     current:
@@ -307,9 +307,9 @@ networks:
       status: CONFIRMED
     reported: "0.9.4"
     migration-id: 1
-    serial-id: 5
-    successor: "0.9.4"
-    legacy: null
+    serial-id: 6
+    successor: null
+    legacy: "0.9.4"
     super-validators:
       - name: "C7-Technology-Services-Limited"
         version: "0.9.4"
@@ -317,138 +317,138 @@ networks:
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.c7.digital"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.c7.digital"
-            role: null
+            role: legacy
       - name: "Cumberland-1"
         version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.cumberland.io"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.cumberland.io"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.cumberland.io"
-            role: null
+            role: legacy
       - name: "Cumberland-2"
         version: "0.9.4"
         scan: "https://scan.sv-2.dev.global.canton.network.cumberland.io"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-2.dev.global.canton.network.cumberland.io"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-2.dev.global.canton.network.cumberland.io"
-            role: null
+            role: legacy
       - name: "DA-Helm-Test-Node"
         version: "0.9.4"
         scan: "https://scan.sv.dev.global.canton.network.digitalasset.com"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv.dev.global.canton.network.digitalasset.com"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv.dev.global.canton.network.digitalasset.com"
-            role: null
+            role: legacy
       - name: "Digital-Asset-1"
         version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.digitalasset.com"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.digitalasset.com"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.digitalasset.com"
-            role: null
+            role: legacy
       - name: "Digital-Asset-2"
         version: "0.9.4"
         scan: "https://scan.sv-2.dev.global.canton.network.digitalasset.com"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-2.dev.global.canton.network.digitalasset.com"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-2.dev.global.canton.network.digitalasset.com"
-            role: null
+            role: legacy
       - name: "Five-North-1"
         version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.fivenorth.io"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.fivenorth.io"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.fivenorth.io"
-            role: null
+            role: legacy
       - name: "Global-Synchronizer-Foundation"
         version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.sync.global"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.sync.global"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.sync.global"
-            role: null
+            role: legacy
       - name: "Liberty-City-Ventures-1"
         version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.lcv.mpch.io"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.lcv.mpch.io"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.lcv.mpch.io"
-            role: null
+            role: legacy
       - name: "MPC-Holding-Inc"
         version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.mpch.io"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.mpch.io"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.mpch.io"
-            role: null
+            role: legacy
       - name: "Orb-1-LP-1"
         version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.orb1lp.mpch.io"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.orb1lp.mpch.io"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.orb1lp.mpch.io"
-            role: null
+            role: legacy
       - name: "Proof-Group-1"
         version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.proofgroup.xyz"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.proofgroup.xyz"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.proofgroup.xyz"
-            role: null
+            role: legacy
       - name: "SV-Nodeops-Limited"
         version: "0.9.4"
         scan: "https://scan.sv.dev.global.canton.network.sv-nodeops.com"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv.dev.global.canton.network.sv-nodeops.com"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv.dev.global.canton.network.sv-nodeops.com"
-            role: null
+            role: legacy
       - name: "Tradeweb-Markets-1"
         version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.tradeweb.com"
         sequencers:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.tradeweb.com"
-            role: successor
+            role: null
           - serial: 5
             url: "https://sequencer-5.sv-1.dev.global.canton.network.tradeweb.com"
-            role: null
+            role: legacy
 splice-latest: "0.9.4"
