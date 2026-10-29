@@ -55,7 +55,7 @@ legacy, and one above it successor.
 | Cumberland-2 | 0.9.4 | scan.sv-2.dev.global.canton.network.cumberland.io | 6: sequencer-6.sv-2.dev.global.canton.network.cumberland.io<br>5: sequencer-5.sv-2.dev.global.canton.network.cumberland.io *(legacy)* |
 | DA-Helm-Test-Node | 0.9.4 | scan.sv.dev.global.canton.network.digitalasset.com | 6: sequencer-6.sv.dev.global.canton.network.digitalasset.com<br>5: sequencer-5.sv.dev.global.canton.network.digitalasset.com *(legacy)* |
 | Digital-Asset-1 | 0.9.4 | scan.sv-1.dev.global.canton.network.digitalasset.com | 6: sequencer-6.sv-1.dev.global.canton.network.digitalasset.com<br>5: sequencer-5.sv-1.dev.global.canton.network.digitalasset.com *(legacy)* |
-| Digital-Asset-2 | 0.9.4 | scan.sv-2.dev.global.canton.network.digitalasset.com | 6: sequencer-6.sv-2.dev.global.canton.network.digitalasset.com<br>5: sequencer-5.sv-2.dev.global.canton.network.digitalasset.com *(legacy)* |
+| Digital-Asset-2 | 0.9.4 | scan.sv-2.dev.global.canton.network.digitalasset.com | 7: sequencer-7.sv-2.dev.global.canton.network.digitalasset.com *(successor)*<br>6: sequencer-6.sv-2.dev.global.canton.network.digitalasset.com<br>5: sequencer-5.sv-2.dev.global.canton.network.digitalasset.com *(legacy)* |
 | Five-North-1 | 0.9.4 | scan.sv-1.dev.global.canton.network.fivenorth.io | 6: sequencer-6.sv-1.dev.global.canton.network.fivenorth.io<br>5: sequencer-5.sv-1.dev.global.canton.network.fivenorth.io *(legacy)* |
 | Global-Synchronizer-Foundation | 0.9.4 | scan.sv-1.dev.global.canton.network.sync.global | 6: sequencer-6.sv-1.dev.global.canton.network.sync.global<br>5: sequencer-5.sv-1.dev.global.canton.network.sync.global *(legacy)* |
 | Liberty-City-Ventures-1 | 0.9.4 | scan.sv-1.dev.global.canton.network.lcv.mpch.io | 6: sequencer-6.sv-1.dev.global.canton.network.lcv.mpch.io<br>5: sequencer-5.sv-1.dev.global.canton.network.lcv.mpch.io *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-10-28T22:15:49Z.
+Values as of 2026-10-29T13:59:51Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
