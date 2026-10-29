@@ -1,4 +1,4 @@
-timestamp: 2026-10-29T14:16:06Z
+timestamp: 2026-10-29T14:26:58Z
 networks:
   mainnet:
     current:
@@ -465,6 +465,9 @@ networks:
         version: "0.9.4"
         scan: "https://scan.sv.dev.global.canton.network.sv-nodeops.com"
         sequencers:
+          - serial: 7
+            url: "https://sequencer-7.sv.dev.global.canton.network.sv-nodeops.com"
+            role: successor
           - serial: 6
             url: "https://sequencer-6.sv.dev.global.canton.network.sv-nodeops.com"
             role: null
