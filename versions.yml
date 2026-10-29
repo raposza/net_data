@@ -1,4 +1,4 @@
-timestamp: 2026-10-29T14:32:23Z
+timestamp: 2026-10-29T15:04:40Z
 networks:
   mainnet:
     current:
@@ -315,6 +315,9 @@ networks:
         version: "0.9.4"
         scan: "https://scan.sv-1.dev.global.canton.network.c7.digital"
         sequencers:
+          - serial: 7
+            url: "https://sequencer-7.sv-1.dev.global.canton.network.c7.digital"
+            role: successor
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.c7.digital"
             role: null
