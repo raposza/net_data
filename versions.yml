@@ -1,4 +1,4 @@
-timestamp: 2026-10-30T14:05:02Z
+timestamp: 2026-10-30T22:30:50Z
 networks:
   mainnet:
     current:
@@ -463,9 +463,6 @@ networks:
             role: null
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.proofgroup.xyz"
-            role: legacy
-          - serial: 5
-            url: "https://sequencer-5.sv-1.dev.global.canton.network.proofgroup.xyz"
             role: legacy
       - name: "SV-Nodeops-Limited"
         version: "0.9.4"
