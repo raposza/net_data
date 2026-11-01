@@ -1,7 +1,7 @@
 {
-  "checkedAt" : "2026-11-01T02:26:11Z",
+  "checkedAt" : "2026-11-01T05:26:27Z",
   "environment" : "prd",
-  "publicationId" : "pub_20261101T022609Z",
-  "uptimeHours" : 327.75,
+  "publicationId" : "pub_20261101T052625Z",
+  "uptimeHours" : 330.76,
   "note" : "liveness only: this branch carries no data and no history worth reading"
 }
