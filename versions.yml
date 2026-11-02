@@ -1,4 +1,4 @@
-timestamp: 2026-11-02T11:55:23Z
+timestamp: 2026-11-02T12:00:49Z
 networks:
   mainnet:
     current:
@@ -289,7 +289,7 @@ networks:
       version: "0.10.0"
       since: 2026-11-02
     svs-on-current:
-      count: 1
+      count: 2
       of: 14
     minimum: "0.8"
     next:
@@ -368,7 +368,7 @@ networks:
             url: "https://sequencer-5.sv-1.dev.global.canton.network.digitalasset.com"
             role: legacy
       - name: "Digital-Asset-2"
-        version: "0.9.4"
+        version: "0.10.0"
         scan: "https://scan.sv-2.dev.global.canton.network.digitalasset.com"
         sequencers:
           - serial: 7
