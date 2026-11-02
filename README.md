@@ -14,7 +14,7 @@ is edited by hand. The same values are in [`versions.yml`](versions.yml) for mac
 
 ## Latest Splice release
 
-**0.9.4**
+**0.10.0**
 
 The highest version the Splice tags endpoint carries. A release existing is
 not a network running it; what each network runs is below.
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-02T09:08:30Z.
+Values as of 2026-11-02T09:54:44Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
