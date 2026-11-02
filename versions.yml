@@ -1,4 +1,4 @@
-timestamp: 2026-11-02T05:06:38Z
+timestamp: 2026-11-02T08:46:59Z
 networks:
   mainnet:
     current:
@@ -280,9 +280,6 @@ networks:
           - serial: 3
             url: "https://sequencer-3.sv.test.global.canton.network.sv-nodeops.com"
             role: null
-          - serial: 2
-            url: "https://sequencer-2.sv.test.global.canton.network.sv-nodeops.com"
-            role: legacy
       - name: "Tradeweb-Markets-1"
         version: "0.9.3"
         scan: "https://scan.sv.test.global.canton.network.tradeweb.com"
