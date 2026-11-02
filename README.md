@@ -32,7 +32,7 @@ document states.
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DevNet | 0.10.0 | 3 / 14 | 2026-11-02 | 0.8 | 0.10.1 | 2026-11-09 | 0.9.4 |
-| TestNet | 0.9.4 | 3 / 13 | 2026-11-02 | 0.8 | 0.10.0 | 2026-11-09 | 0.9.3 |
+| TestNet | 0.9.4 | 4 / 13 | 2026-11-02 | 0.8 | 0.10.0 | 2026-11-09 | 0.9.3 |
 | MainNet | 0.9.3 | 13 / 13 | 2026-10-21 | 0.8 | 0.9.4 | 2026-11-09 | 0.9.3 |
 
 ## Super Validators
@@ -67,7 +67,7 @@ legacy, and one above it successor.
 
 ### TestNet
 
-13 nodes, serial 3: 10 on 0.9.3, 3 on 0.9.4.
+13 nodes, serial 3: 9 on 0.9.3, 4 on 0.9.4.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ legacy, and one above it successor.
 | Liberty-City-Ventures-1 | 0.9.3 | scan.sv-1.test.global.canton.network.lcv.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.lcv.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.lcv.mpch.io *(legacy)* |
 | MPC-Holding-Inc | 0.9.3 | scan.sv-1.test.global.canton.network.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.mpch.io *(legacy)* |
 | Orb-1-LP-1 | 0.9.3 | scan.sv-1.test.global.canton.network.orb1lp.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.orb1lp.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.orb1lp.mpch.io *(legacy)* |
-| Proof-Group-1 | 0.9.3 | scan.sv-1.test.global.canton.network.proofgroup.xyz | 3: sequencer-3.sv-1.test.global.canton.network.proofgroup.xyz |
+| Proof-Group-1 | 0.9.4 | scan.sv-1.test.global.canton.network.proofgroup.xyz | 3: sequencer-3.sv-1.test.global.canton.network.proofgroup.xyz |
 | SV-Nodeops-Limited | 0.9.4 | scan.sv.test.global.canton.network.sv-nodeops.com | 3: sequencer-3.sv.test.global.canton.network.sv-nodeops.com |
 | Tradeweb-Markets-1 | 0.9.3 | scan.sv.test.global.canton.network.tradeweb.com | 3: sequencer-3.sv.test.global.canton.network.tradeweb.com<br>2: sequencer-2.sv.test.global.canton.network.tradeweb.com *(legacy)* |
 
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-02T12:11:37Z.
+Values as of 2026-11-02T16:40:23Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
