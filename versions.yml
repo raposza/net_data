@@ -1,4 +1,4 @@
-timestamp: 2026-11-02T12:00:49Z
+timestamp: 2026-11-02T12:11:37Z
 networks:
   mainnet:
     current:
@@ -289,7 +289,7 @@ networks:
       version: "0.10.0"
       since: 2026-11-02
     svs-on-current:
-      count: 2
+      count: 3
       of: 14
     minimum: "0.8"
     next:
@@ -342,7 +342,7 @@ networks:
             url: "https://sequencer-5.sv-2.dev.global.canton.network.cumberland.io"
             role: legacy
       - name: "DA-Helm-Test-Node"
-        version: "0.9.4"
+        version: "0.10.0"
         scan: "https://scan.sv.dev.global.canton.network.digitalasset.com"
         sequencers:
           - serial: 7
