@@ -1,4 +1,4 @@
-timestamp: 2026-11-02T16:56:38Z
+timestamp: 2026-11-02T17:23:37Z
 networks:
   mainnet:
     current:
@@ -150,7 +150,7 @@ networks:
       version: "0.9.4"
       since: 2026-11-02
     svs-on-current:
-      count: 4
+      count: 5
       of: 13
     minimum: "0.8"
     next:
@@ -272,7 +272,7 @@ networks:
             url: "https://sequencer-3.sv.test.global.canton.network.sv-nodeops.com"
             role: null
       - name: "Tradeweb-Markets-1"
-        version: "0.9.3"
+        version: "0.9.4"
         scan: "https://scan.sv.test.global.canton.network.tradeweb.com"
         sequencers:
           - serial: 3
