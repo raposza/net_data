@@ -1,4 +1,4 @@
-timestamp: 2026-10-30T22:30:50Z
+timestamp: 2026-11-02T00:00:34Z
 networks:
   mainnet:
     current:
@@ -150,15 +150,15 @@ networks:
             role: legacy
   testnet:
     current:
-      version: "0.9.3"
-      since: 2026-10-21
+      version: "0.9.4"
+      since: 2026-11-02
     svs-on-current:
-      count: 13
+      count: 0
       of: 13
     minimum: "0.8"
     next:
-      version: "0.9.4"
-      date: 2026-11-02
+      version: "0.10.0"
+      date: 2026-11-09
       status: CONFIRMED
     reported: "0.9.3"
     migration-id: 1
@@ -295,15 +295,15 @@ networks:
             role: legacy
   devnet:
     current:
-      version: "0.9.4"
-      since: 2026-10-26
+      version: "0.10.0"
+      since: 2026-11-02
     svs-on-current:
-      count: 14
+      count: 0
       of: 14
     minimum: "0.8"
     next:
-      version: "0.10.0"
-      date: 2026-11-02
+      version: "0.10.1"
+      date: 2026-11-09
       status: CONFIRMED
     reported: "0.9.4"
     migration-id: 1
