@@ -1,4 +1,4 @@
-timestamp: 2026-11-02T09:54:44Z
+timestamp: 2026-11-02T11:17:38Z
 networks:
   mainnet:
     current:
@@ -203,9 +203,6 @@ networks:
           - serial: 3
             url: "https://sequencer-3.sv-1.test.global.canton.network.digitalasset.com"
             role: null
-          - serial: 2
-            url: "https://sequencer-2.sv-1.test.global.canton.network.digitalasset.com"
-            role: legacy
       - name: "Digital-Asset-2"
         version: "0.9.4"
         scan: "https://scan.sv-2.test.global.canton.network.digitalasset.com"
@@ -213,9 +210,6 @@ networks:
           - serial: 3
             url: "https://sequencer-3.sv-2.test.global.canton.network.digitalasset.com"
             role: null
-          - serial: 2
-            url: "https://sequencer-2.sv-2.test.global.canton.network.digitalasset.com"
-            role: legacy
       - name: "Five-North-1"
         version: "0.9.3"
         scan: "https://scan.sv-1.test.global.canton.network.fivenorth.io"

@@ -74,8 +74,8 @@ legacy, and one above it successor.
 | C7-Technology-Services-Limited | 0.9.3 | scan.sv-1.test.global.canton.network.c7.digital | 3: sequencer-3.sv-1.test.global.canton.network.c7.digital<br>2: sequencer-2.sv-1.test.global.canton.network.c7.digital *(legacy)* |
 | Cumberland-1 | 0.9.3 | scan.sv-1.test.global.canton.network.cumberland.io | 3: sequencer-3.sv-1.test.global.canton.network.cumberland.io<br>2: sequencer-2.sv-1.test.global.canton.network.cumberland.io *(legacy)* |
 | Cumberland-2 | 0.9.3 | scan.sv-2.test.global.canton.network.cumberland.io | 3: sequencer-3.sv-2.test.global.canton.network.cumberland.io<br>2: sequencer-2.sv-2.test.global.canton.network.cumberland.io *(legacy)* |
-| Digital-Asset-1 | 0.9.4 | scan.sv-1.test.global.canton.network.digitalasset.com | 3: sequencer-3.sv-1.test.global.canton.network.digitalasset.com<br>2: sequencer-2.sv-1.test.global.canton.network.digitalasset.com *(legacy)* |
-| Digital-Asset-2 | 0.9.4 | scan.sv-2.test.global.canton.network.digitalasset.com | 3: sequencer-3.sv-2.test.global.canton.network.digitalasset.com<br>2: sequencer-2.sv-2.test.global.canton.network.digitalasset.com *(legacy)* |
+| Digital-Asset-1 | 0.9.4 | scan.sv-1.test.global.canton.network.digitalasset.com | 3: sequencer-3.sv-1.test.global.canton.network.digitalasset.com |
+| Digital-Asset-2 | 0.9.4 | scan.sv-2.test.global.canton.network.digitalasset.com | 3: sequencer-3.sv-2.test.global.canton.network.digitalasset.com |
 | Five-North-1 | 0.9.3 | scan.sv-1.test.global.canton.network.fivenorth.io | 3: sequencer-3.sv-1.test.global.canton.network.fivenorth.io<br>2: sequencer-2.sv-1.test.global.canton.network.fivenorth.io *(legacy)* |
 | Global-Synchronizer-Foundation | 0.9.3 | scan.sv-1.test.global.canton.network.sync.global | 3: sequencer-3.sv-1.test.global.canton.network.sync.global<br>2: sequencer-2.sv-1.test.global.canton.network.sync.global *(legacy)* |
 | Liberty-City-Ventures-1 | 0.9.3 | scan.sv-1.test.global.canton.network.lcv.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.lcv.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.lcv.mpch.io *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-02T09:54:44Z.
+Values as of 2026-11-02T11:17:38Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
