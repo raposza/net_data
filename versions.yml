@@ -1,4 +1,4 @@
-timestamp: 2026-11-03T00:23:27Z
+timestamp: 2026-11-03T00:39:37Z
 networks:
   mainnet:
     current:
@@ -218,9 +218,6 @@ networks:
           - serial: 3
             url: "https://sequencer-3.sv-1.test.global.canton.network.sync.global"
             role: null
-          - serial: 2
-            url: "https://sequencer-2.sv-1.test.global.canton.network.sync.global"
-            role: legacy
       - name: "Liberty-City-Ventures-1"
         version: "0.9.3"
         scan: "https://scan.sv-1.test.global.canton.network.lcv.mpch.io"
