@@ -77,7 +77,7 @@ legacy, and one above it successor.
 | Digital-Asset-1 | 0.9.4 | scan.sv-1.test.global.canton.network.digitalasset.com | 3: sequencer-3.sv-1.test.global.canton.network.digitalasset.com |
 | Digital-Asset-2 | 0.9.4 | scan.sv-2.test.global.canton.network.digitalasset.com | 3: sequencer-3.sv-2.test.global.canton.network.digitalasset.com |
 | Five-North-1 | 0.9.4 | scan.sv-1.test.global.canton.network.fivenorth.io | 3: sequencer-3.sv-1.test.global.canton.network.fivenorth.io |
-| Global-Synchronizer-Foundation | 0.9.4 | scan.sv-1.test.global.canton.network.sync.global | 3: sequencer-3.sv-1.test.global.canton.network.sync.global |
+| Global-Synchronizer-Foundation | 0.9.4 | scan.sv-1.test.global.canton.network.sync.global | 4: sequencer-4.sv-1.test.global.canton.network.sync.global *(successor)*<br>3: sequencer-3.sv-1.test.global.canton.network.sync.global |
 | Liberty-City-Ventures-1 | 0.9.4 | scan.sv-1.test.global.canton.network.lcv.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.lcv.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.lcv.mpch.io *(legacy)* |
 | MPC-Holding-Inc | 0.9.4 | scan.sv-1.test.global.canton.network.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.mpch.io *(legacy)* |
 | Orb-1-LP-1 | 0.9.4 | scan.sv-1.test.global.canton.network.orb1lp.mpch.io | 3: sequencer-3.sv-1.test.global.canton.network.orb1lp.mpch.io<br>2: sequencer-2.sv-1.test.global.canton.network.orb1lp.mpch.io *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-03T13:13:17Z.
+Values as of 2026-11-03T14:12:33Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
