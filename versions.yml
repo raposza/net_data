@@ -1,4 +1,4 @@
-timestamp: 2026-11-05T12:37:36Z
+timestamp: 2026-11-05T13:31:29Z
 networks:
   mainnet:
     current:
@@ -430,9 +430,6 @@ networks:
             role: null
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.lcv.mpch.io"
-            role: legacy
-          - serial: 5
-            url: "https://sequencer-5.sv-1.dev.global.canton.network.lcv.mpch.io"
             role: legacy
       - name: "MPC-Holding-Inc"
         version: "0.10.0"
