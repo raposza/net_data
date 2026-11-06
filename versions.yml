@@ -1,4 +1,4 @@
-timestamp: 2026-11-06T17:57:06Z
+timestamp: 2026-11-06T18:13:19Z
 networks:
   mainnet:
     current:
@@ -35,6 +35,9 @@ networks:
         version: "0.9.3"
         scan: "https://scan.sv-1.global.canton.network.cumberland.io"
         sequencers:
+          - serial: 7
+            url: "https://sequencer-7.sv-1.global.canton.network.cumberland.io"
+            role: successor
           - serial: 6
             url: "https://sequencer-6.sv-1.global.canton.network.cumberland.io"
             role: null
