@@ -93,7 +93,7 @@ legacy, and one above it successor.
 | --- | --- | --- | --- |
 | C7-Technology-Services-Limited | 0.9.3 | scan.sv-1.global.canton.network.c7.digital | 7: sequencer-7.sv-1.global.canton.network.c7.digital *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.c7.digital<br>5: sequencer-5.sv-1.global.canton.network.c7.digital *(legacy)* |
 | Cumberland-1 | 0.9.3 | scan.sv-1.global.canton.network.cumberland.io | 6: sequencer-6.sv-1.global.canton.network.cumberland.io<br>5: sequencer-5.sv-1.global.canton.network.cumberland.io *(legacy)* |
-| Cumberland-2 | 0.9.3 | scan.sv-2.global.canton.network.cumberland.io | 6: sequencer-6.sv-2.global.canton.network.cumberland.io<br>5: sequencer-5.sv-2.global.canton.network.cumberland.io *(legacy)* |
+| Cumberland-2 | 0.9.3 | scan.sv-2.global.canton.network.cumberland.io | 7: sequencer-7.sv-2.global.canton.network.cumberland.io *(successor)*<br>6: sequencer-6.sv-2.global.canton.network.cumberland.io<br>5: sequencer-5.sv-2.global.canton.network.cumberland.io *(legacy)* |
 | Digital-Asset-1 | 0.9.3 | scan.sv-1.global.canton.network.digitalasset.com | 7: sequencer-7.sv-1.global.canton.network.digitalasset.com *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.digitalasset.com<br>5: sequencer-5.sv-1.global.canton.network.digitalasset.com *(legacy)* |
 | Digital-Asset-2 | 0.9.3 | scan.sv-2.global.canton.network.digitalasset.com | 7: sequencer-7.sv-2.global.canton.network.digitalasset.com *(successor)*<br>6: sequencer-6.sv-2.global.canton.network.digitalasset.com<br>5: sequencer-5.sv-2.global.canton.network.digitalasset.com *(legacy)* |
 | Five-North-1 | 0.9.3 | scan.sv-1.global.canton.network.fivenorth.io | 7: sequencer-7.sv-1.global.canton.network.fivenorth.io *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.fivenorth.io<br>5: sequencer-5.sv-1.global.canton.network.fivenorth.io *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-06T17:29:59Z.
+Values as of 2026-11-06T17:57:06Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
