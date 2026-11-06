@@ -99,8 +99,8 @@ legacy, and one above it successor.
 | Five-North-1 | 0.9.3 | scan.sv-1.global.canton.network.fivenorth.io | 7: sequencer-7.sv-1.global.canton.network.fivenorth.io *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.fivenorth.io<br>5: sequencer-5.sv-1.global.canton.network.fivenorth.io *(legacy)* |
 | Global-Synchronizer-Foundation | 0.9.3 | scan.sv-1.global.canton.network.sync.global | 7: sequencer-7.sv-1.global.canton.network.sync.global *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.sync.global<br>5: sequencer-5.sv-1.global.canton.network.sync.global *(legacy)* |
 | Liberty-City-Ventures-1 | 0.9.3 | scan.sv-1.global.canton.network.lcv.mpch.io | 7: sequencer-7.sv-1.global.canton.network.lcv.mpch.io *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.lcv.mpch.io<br>5: sequencer-5.sv-1.global.canton.network.lcv.mpch.io *(legacy)* |
-| MPC-Holding-Inc | 0.9.3 | scan.sv-1.global.canton.network.mpch.io | 6: sequencer-6.sv-1.global.canton.network.mpch.io<br>5: sequencer-5.sv-1.global.canton.network.mpch.io *(legacy)* |
-| Orb-1-LP-1 | 0.9.3 | scan.sv-1.global.canton.network.orb1lp.mpch.io | 6: sequencer-6.sv-1.global.canton.network.orb1lp.mpch.io<br>5: sequencer-5.sv-1.global.canton.network.orb1lp.mpch.io *(legacy)* |
+| MPC-Holding-Inc | 0.9.3 | scan.sv-1.global.canton.network.mpch.io | 7: sequencer-7.sv-1.global.canton.network.mpch.io *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.mpch.io<br>5: sequencer-5.sv-1.global.canton.network.mpch.io *(legacy)* |
+| Orb-1-LP-1 | 0.9.3 | scan.sv-1.global.canton.network.orb1lp.mpch.io | 7: sequencer-7.sv-1.global.canton.network.orb1lp.mpch.io *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.orb1lp.mpch.io<br>5: sequencer-5.sv-1.global.canton.network.orb1lp.mpch.io *(legacy)* |
 | Proof-Group-1 | 0.9.3 | scan.sv-1.global.canton.network.proofgroup.xyz | 6: sequencer-6.sv-1.global.canton.network.proofgroup.xyz |
 | SV-Nodeops-Limited | 0.9.3 | scan.sv.global.canton.network.sv-nodeops.com | 6: sequencer-6.sv.global.canton.network.sv-nodeops.com<br>5: sequencer-5.sv.global.canton.network.sv-nodeops.com *(legacy)* |
 | Tradeweb-Markets-1 | 0.9.3 | scan.sv-1.global.canton.network.tradeweb.com | 6: sequencer-6.sv-1.global.canton.network.tradeweb.com<br>5: sequencer-5.sv-1.global.canton.network.tradeweb.com *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-06T15:47:05Z.
+Values as of 2026-11-06T15:52:32Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
