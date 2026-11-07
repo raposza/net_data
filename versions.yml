@@ -1,4 +1,4 @@
-timestamp: 2026-11-06T19:45:12Z
+timestamp: 2026-11-07T21:06:47Z
 networks:
   mainnet:
     current:
@@ -343,7 +343,7 @@ networks:
       version: "0.10.0"
       since: 2026-11-02
     svs-on-current:
-      count: 10
+      count: 9
       of: 14
     minimum: "0.8"
     next:
@@ -488,7 +488,7 @@ networks:
             url: "https://sequencer-6.sv-1.dev.global.canton.network.orb1lp.mpch.io"
             role: legacy
       - name: "Proof-Group-1"
-        version: "0.10.0"
+        version: "0.10.1"
         scan: "https://scan.sv-1.dev.global.canton.network.proofgroup.xyz"
         sequencers:
           - serial: 7
