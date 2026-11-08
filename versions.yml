@@ -1,4 +1,4 @@
-timestamp: 2026-11-08T20:08:35Z
+timestamp: 2026-11-08T20:14:03Z
 networks:
   mainnet:
     current:
@@ -186,7 +186,7 @@ networks:
       version: "0.9.4"
       since: 2026-11-02
     svs-on-current:
-      count: 13
+      count: 12
       of: 13
     minimum: "0.8"
     next:
@@ -260,7 +260,7 @@ networks:
             url: "https://sequencer-3.sv-1.test.global.canton.network.fivenorth.io"
             role: legacy
       - name: "Global-Synchronizer-Foundation"
-        version: "0.9.4"
+        version: "0.10.0"
         scan: "https://scan.sv-1.test.global.canton.network.sync.global"
         sequencers:
           - serial: 4
