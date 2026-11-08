@@ -1,4 +1,4 @@
-timestamp: 2026-11-08T20:24:58Z
+timestamp: 2026-11-08T20:35:51Z
 networks:
   mainnet:
     current:
@@ -186,7 +186,7 @@ networks:
       version: "0.9.4"
       since: 2026-11-02
     svs-on-current:
-      count: 12
+      count: 11
       of: 13
     minimum: "0.8"
     next:
@@ -200,7 +200,7 @@ networks:
     legacy: "0.9.4"
     super-validators:
       - name: "C7-Technology-Services-Limited"
-        version: "0.9.4"
+        version: "0.10.0"
         scan: "https://scan.sv-1.test.global.canton.network.c7.digital"
         sequencers:
           - serial: 4
