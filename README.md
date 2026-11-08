@@ -33,7 +33,7 @@ document states.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DevNet | 0.10.0 | 8 / 14 | 2026-11-02 | 0.8 | 0.10.1 | 2026-11-09 | 0.10.1 |
 | TestNet | 0.9.4 | 11 / 13 | 2026-11-02 | 0.8 | 0.10.0 | 2026-11-09 | 0.10.0 |
-| MainNet | 0.9.3 | 12 / 13 | 2026-10-21 | 0.8 | 0.9.4 | 2026-11-09 | 0.9.3 |
+| MainNet | 0.9.3 | 11 / 13 | 2026-10-21 | 0.8 | 0.9.4 | 2026-11-09 | 0.9.3 |
 
 ## Super Validators
 
@@ -87,11 +87,11 @@ legacy, and one above it successor.
 
 ### MainNet
 
-13 nodes, serial 6: 12 on 0.9.3, 1 on 0.9.4.
+13 nodes, serial 6: 11 on 0.9.3, 2 on 0.9.4.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
-| C7-Technology-Services-Limited | 0.9.3 | scan.sv-1.global.canton.network.c7.digital | 7: sequencer-7.sv-1.global.canton.network.c7.digital *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.c7.digital<br>5: sequencer-5.sv-1.global.canton.network.c7.digital *(legacy)* |
+| C7-Technology-Services-Limited | 0.9.4 | scan.sv-1.global.canton.network.c7.digital | 7: sequencer-7.sv-1.global.canton.network.c7.digital *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.c7.digital<br>5: sequencer-5.sv-1.global.canton.network.c7.digital *(legacy)* |
 | Cumberland-1 | 0.9.3 | scan.sv-1.global.canton.network.cumberland.io | 7: sequencer-7.sv-1.global.canton.network.cumberland.io *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.cumberland.io<br>5: sequencer-5.sv-1.global.canton.network.cumberland.io *(legacy)* |
 | Cumberland-2 | 0.9.3 | scan.sv-2.global.canton.network.cumberland.io | 7: sequencer-7.sv-2.global.canton.network.cumberland.io *(successor)*<br>6: sequencer-6.sv-2.global.canton.network.cumberland.io<br>5: sequencer-5.sv-2.global.canton.network.cumberland.io *(legacy)* |
 | Digital-Asset-1 | 0.9.3 | scan.sv-1.global.canton.network.digitalasset.com | 7: sequencer-7.sv-1.global.canton.network.digitalasset.com *(successor)*<br>6: sequencer-6.sv-1.global.canton.network.digitalasset.com<br>5: sequencer-5.sv-1.global.canton.network.digitalasset.com *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-08T20:35:51Z.
+Values as of 2026-11-08T20:41:18Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
