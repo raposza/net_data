@@ -1,4 +1,4 @@
-timestamp: 2026-11-09T13:52:45Z
+timestamp: 2026-11-09T14:09:01Z
 networks:
   mainnet:
     current:
@@ -80,9 +80,6 @@ networks:
           - serial: 6
             url: "https://sequencer-6.sv-2.global.canton.network.digitalasset.com"
             role: null
-          - serial: 5
-            url: "https://sequencer-5.sv-2.global.canton.network.digitalasset.com"
-            role: legacy
       - name: "Five-North-1"
         version: "0.9.4"
         scan: "https://scan.sv-1.global.canton.network.fivenorth.io"
