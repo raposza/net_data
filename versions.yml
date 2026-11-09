@@ -1,4 +1,4 @@
-timestamp: 2026-11-09T13:20:13Z
+timestamp: 2026-11-09T13:36:29Z
 networks:
   mainnet:
     current:
@@ -186,7 +186,7 @@ networks:
       version: "0.10.0"
       since: 2026-11-09
     svs-on-current:
-      count: 4
+      count: 5
       of: 13
     minimum: "0.8"
     next:
@@ -250,7 +250,7 @@ networks:
             url: "https://sequencer-3.sv-2.test.global.canton.network.digitalasset.com"
             role: legacy
       - name: "Five-North-1"
-        version: "0.9.4"
+        version: "0.10.0"
         scan: "https://scan.sv-1.test.global.canton.network.fivenorth.io"
         sequencers:
           - serial: 4
