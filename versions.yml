@@ -1,11 +1,11 @@
-timestamp: 2026-11-09T17:29:25Z
+timestamp: 2026-11-09T17:34:53Z
 networks:
   mainnet:
     current:
       version: "0.9.4"
       since: 2026-11-09
     svs-on-current:
-      count: 7
+      count: 8
       of: 13
     minimum: "0.8"
     next:
@@ -140,7 +140,7 @@ networks:
             url: "https://sequencer-5.sv-1.global.canton.network.orb1lp.mpch.io"
             role: legacy
       - name: "Proof-Group-1"
-        version: "0.9.3"
+        version: "0.9.4"
         scan: "https://scan.sv-1.global.canton.network.proofgroup.xyz"
         sequencers:
           - serial: 7
@@ -177,7 +177,7 @@ networks:
       version: "0.10.0"
       since: 2026-11-09
     svs-on-current:
-      count: 7
+      count: 8
       of: 13
     minimum: "0.8"
     next:
@@ -300,7 +300,7 @@ networks:
             url: "https://sequencer-2.sv-1.test.global.canton.network.orb1lp.mpch.io"
             role: legacy
       - name: "Proof-Group-1"
-        version: "0.9.4"
+        version: "0.10.0"
         scan: "https://scan.sv-1.test.global.canton.network.proofgroup.xyz"
         sequencers:
           - serial: 4
@@ -334,7 +334,7 @@ networks:
       version: "0.10.1"
       since: 2026-11-09
     svs-on-current:
-      count: 8
+      count: 9
       of: 14
     minimum: "0.8"
     next:
@@ -361,7 +361,7 @@ networks:
             url: "https://sequencer-5.sv-1.dev.global.canton.network.c7.digital"
             role: legacy
       - name: "Cumberland-1"
-        version: "0.10.0"
+        version: "0.10.1"
         scan: "https://scan.sv-1.dev.global.canton.network.cumberland.io"
         sequencers:
           - serial: 7
