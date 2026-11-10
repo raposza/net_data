@@ -1,4 +1,4 @@
-timestamp: 2026-11-10T15:30:24Z
+timestamp: 2026-11-10T15:35:55Z
 networks:
   mainnet:
     current:
@@ -277,9 +277,6 @@ networks:
             role: null
           - serial: 3
             url: "https://sequencer-3.sv-1.test.global.canton.network.orb1lp.mpch.io"
-            role: legacy
-          - serial: 2
-            url: "https://sequencer-2.sv-1.test.global.canton.network.orb1lp.mpch.io"
             role: legacy
       - name: "Proof-Group-1"
         version: "0.10.0"
