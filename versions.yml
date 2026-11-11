@@ -1,4 +1,4 @@
-timestamp: 2026-11-11T16:26:11Z
+timestamp: 2026-11-11T16:31:45Z
 networks:
   mainnet:
     current:
@@ -37,9 +37,6 @@ networks:
             role: null
           - serial: 6
             url: "https://sequencer-6.sv-1.global.canton.network.cumberland.io"
-            role: legacy
-          - serial: 5
-            url: "https://sequencer-5.sv-1.global.canton.network.cumberland.io"
             role: legacy
       - name: "Cumberland-2"
         version: "0.9.4"
