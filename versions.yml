@@ -1,4 +1,4 @@
-timestamp: 2026-11-11T07:35:14Z
+timestamp: 2026-11-11T16:26:11Z
 networks:
   mainnet:
     current:
@@ -50,9 +50,6 @@ networks:
             role: null
           - serial: 6
             url: "https://sequencer-6.sv-2.global.canton.network.cumberland.io"
-            role: legacy
-          - serial: 5
-            url: "https://sequencer-5.sv-2.global.canton.network.cumberland.io"
             role: legacy
       - name: "Digital-Asset-1"
         version: "0.9.4"
