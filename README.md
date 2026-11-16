@@ -33,7 +33,7 @@ document states.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DevNet | 0.10.2 | 10 / 14 | 2026-11-16 | 0.8 | 0.10.3 | 2026-11-23 | 0.10.2 |
 | TestNet | 0.10.1 | 5 / 13 | 2026-11-16 | 0.8 | 0.10.2 | 2026-11-23 | 0.10.0 |
-| MainNet | 0.10.0 | 4 / 13 | 2026-11-16 | 0.8 | 0.10.1 | 2026-11-23 | 0.9.4 |
+| MainNet | 0.10.0 | 5 / 13 | 2026-11-16 | 0.8 | 0.10.1 | 2026-11-23 | 0.9.4 |
 
 ## Super Validators
 
@@ -87,7 +87,7 @@ legacy, and one above it successor.
 
 ### MainNet
 
-13 nodes, serial 7: 9 on 0.9.4, 4 on 0.10.0.
+13 nodes, serial 7: 8 on 0.9.4, 5 on 0.10.0.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
@@ -101,7 +101,7 @@ legacy, and one above it successor.
 | Liberty-City-Ventures-1 | 0.9.4 | scan.sv-1.global.canton.network.lcv.mpch.io | 7: sequencer-7.sv-1.global.canton.network.lcv.mpch.io<br>6: sequencer-6.sv-1.global.canton.network.lcv.mpch.io *(legacy)*<br>5: sequencer-5.sv-1.global.canton.network.lcv.mpch.io *(legacy)* |
 | MPC-Holding-Inc | 0.9.4 | scan.sv-1.global.canton.network.mpch.io | 7: sequencer-7.sv-1.global.canton.network.mpch.io<br>6: sequencer-6.sv-1.global.canton.network.mpch.io *(legacy)* |
 | Orb-1-LP-1 | 0.9.4 | scan.sv-1.global.canton.network.orb1lp.mpch.io | 7: sequencer-7.sv-1.global.canton.network.orb1lp.mpch.io<br>6: sequencer-6.sv-1.global.canton.network.orb1lp.mpch.io *(legacy)*<br>5: sequencer-5.sv-1.global.canton.network.orb1lp.mpch.io *(legacy)* |
-| Proof-Group-1 | 0.9.4 | scan.sv-1.global.canton.network.proofgroup.xyz | 7: sequencer-7.sv-1.global.canton.network.proofgroup.xyz<br>6: sequencer-6.sv-1.global.canton.network.proofgroup.xyz *(legacy)* |
+| Proof-Group-1 | 0.10.0 | scan.sv-1.global.canton.network.proofgroup.xyz | 7: sequencer-7.sv-1.global.canton.network.proofgroup.xyz<br>6: sequencer-6.sv-1.global.canton.network.proofgroup.xyz *(legacy)* |
 | SV-Nodeops-Limited | 0.10.0 | scan.sv.global.canton.network.sv-nodeops.com | 7: sequencer-7.sv.global.canton.network.sv-nodeops.com<br>6: sequencer-6.sv.global.canton.network.sv-nodeops.com *(legacy)* |
 | Tradeweb-Markets-1 | 0.9.4 | scan.sv-1.global.canton.network.tradeweb.com | 7: sequencer-7.sv-1.global.canton.network.tradeweb.com<br>6: sequencer-6.sv-1.global.canton.network.tradeweb.com *(legacy)* |
 
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-16T13:57:56Z.
+Values as of 2026-11-16T14:01:15Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
