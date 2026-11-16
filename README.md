@@ -31,7 +31,7 @@ document states.
 
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DevNet | 0.10.2 | 11 / 14 | 2026-11-16 | 0.8 | 0.10.3 | 2026-11-23 | 0.10.2 |
+| DevNet | 0.10.2 | 12 / 14 | 2026-11-16 | 0.8 | 0.10.3 | 2026-11-23 | 0.10.2 |
 | TestNet | 0.10.1 | 9 / 13 | 2026-11-16 | 0.8 | 0.10.2 | 2026-11-23 | 0.10.1 |
 | MainNet | 0.10.0 | 8 / 13 | 2026-11-16 | 0.8 | 0.10.1 | 2026-11-23 | 0.9.4 |
 
@@ -46,11 +46,11 @@ legacy, and one above it successor.
 
 ### DevNet
 
-14 nodes, serial 7: 11 on 0.10.2, 3 on 0.10.1.
+14 nodes, serial 7: 12 on 0.10.2, 2 on 0.10.1.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
-| C7-Technology-Services-Limited | 0.10.1 | scan.sv-1.dev.global.canton.network.c7.digital | 7: sequencer-7.sv-1.dev.global.canton.network.c7.digital<br>6: sequencer-6.sv-1.dev.global.canton.network.c7.digital *(legacy)*<br>5: sequencer-5.sv-1.dev.global.canton.network.c7.digital *(legacy)* |
+| C7-Technology-Services-Limited | 0.10.2 | scan.sv-1.dev.global.canton.network.c7.digital | 7: sequencer-7.sv-1.dev.global.canton.network.c7.digital<br>6: sequencer-6.sv-1.dev.global.canton.network.c7.digital *(legacy)*<br>5: sequencer-5.sv-1.dev.global.canton.network.c7.digital *(legacy)* |
 | Cumberland-1 | 0.10.1 | scan.sv-1.dev.global.canton.network.cumberland.io | 7: sequencer-7.sv-1.dev.global.canton.network.cumberland.io<br>6: sequencer-6.sv-1.dev.global.canton.network.cumberland.io *(legacy)*<br>5: sequencer-5.sv-1.dev.global.canton.network.cumberland.io *(legacy)* |
 | Cumberland-2 | 0.10.1 | scan.sv-2.dev.global.canton.network.cumberland.io | 7: sequencer-7.sv-2.dev.global.canton.network.cumberland.io<br>6: sequencer-6.sv-2.dev.global.canton.network.cumberland.io *(legacy)*<br>5: sequencer-5.sv-2.dev.global.canton.network.cumberland.io *(legacy)* |
 | DA-Helm-Test-Node | 0.10.2 | scan.sv.dev.global.canton.network.digitalasset.com | 7: sequencer-7.sv.dev.global.canton.network.digitalasset.com<br>6: sequencer-6.sv.dev.global.canton.network.digitalasset.com *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-16T15:46:46Z.
+Values as of 2026-11-16T17:50:17Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
