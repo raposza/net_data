@@ -33,7 +33,7 @@ document states.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DevNet | 0.10.2 | 12 / 14 | 2026-11-16 | 0.8 | 0.10.3 | 2026-11-23 | 0.10.2 |
 | TestNet | 0.10.1 | 10 / 13 | 2026-11-16 | 0.8 | 0.10.2 | 2026-11-23 | 0.10.1 |
-| MainNet | 0.10.0 | 9 / 13 | 2026-11-16 | 0.8 | 0.10.1 | 2026-11-23 | 0.9.4 |
+| MainNet | 0.10.0 | 10 / 13 | 2026-11-16 | 0.8 | 0.10.1 | 2026-11-23 | 0.9.4 |
 
 ## Super Validators
 
@@ -87,12 +87,12 @@ legacy, and one above it successor.
 
 ### MainNet
 
-13 nodes, serial 7: 9 on 0.10.0, 4 on 0.9.4.
+13 nodes, serial 7: 10 on 0.10.0, 3 on 0.9.4.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
 | C7-Technology-Services-Limited | 0.9.4 | scan.sv-1.global.canton.network.c7.digital | 7: sequencer-7.sv-1.global.canton.network.c7.digital<br>6: sequencer-6.sv-1.global.canton.network.c7.digital *(legacy)* |
-| Cumberland-1 | 0.9.4 | scan.sv-1.global.canton.network.cumberland.io | 7: sequencer-7.sv-1.global.canton.network.cumberland.io<br>6: sequencer-6.sv-1.global.canton.network.cumberland.io *(legacy)* |
+| Cumberland-1 | 0.10.0 | scan.sv-1.global.canton.network.cumberland.io | 7: sequencer-7.sv-1.global.canton.network.cumberland.io<br>6: sequencer-6.sv-1.global.canton.network.cumberland.io *(legacy)* |
 | Cumberland-2 | 0.10.0 | scan.sv-2.global.canton.network.cumberland.io | 7: sequencer-7.sv-2.global.canton.network.cumberland.io<br>6: sequencer-6.sv-2.global.canton.network.cumberland.io *(legacy)* |
 | Digital-Asset-1 | 0.10.0 | scan.sv-1.global.canton.network.digitalasset.com | 7: sequencer-7.sv-1.global.canton.network.digitalasset.com<br>6: sequencer-6.sv-1.global.canton.network.digitalasset.com *(legacy)* |
 | Digital-Asset-2 | 0.10.0 | scan.sv-2.global.canton.network.digitalasset.com | 7: sequencer-7.sv-2.global.canton.network.digitalasset.com<br>6: sequencer-6.sv-2.global.canton.network.digitalasset.com *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-16T18:24:20Z.
+Values as of 2026-11-16T18:29:51Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
