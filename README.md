@@ -31,9 +31,9 @@ document states.
 
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DevNet | 0.10.1 | 9 / 14 | 2026-11-09 | 0.8 | 0.10.2 | 2026-11-16 | 0.10.1 |
-| TestNet | 0.10.0 | 13 / 13 | 2026-11-09 | 0.8 | 0.10.1 | 2026-11-16 | 0.10.0 |
-| MainNet | 0.9.4 | 13 / 13 | 2026-11-09 | 0.8 | 0.10.0 | 2026-11-16 | 0.9.4 |
+| DevNet | 0.10.2 | 5 / 14 | 2026-11-16 | 0.8 | 0.10.3 | 2026-11-23 | 0.10.1 |
+| TestNet | 0.10.1 | 0 / 13 | 2026-11-16 | 0.8 | 0.10.2 | 2026-11-23 | 0.10.0 |
+| MainNet | 0.10.0 | 0 / 13 | 2026-11-16 | 0.8 | 0.10.1 | 2026-11-23 | 0.9.4 |
 
 ## Super Validators
 
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-13T19:51:16Z.
+Values as of 2026-11-16T00:00:26Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
