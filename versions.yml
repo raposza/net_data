@@ -1,4 +1,4 @@
-timestamp: 2026-11-16T21:09:29Z
+timestamp: 2026-11-16T23:18:22Z
 networks:
   mainnet:
     current:
@@ -12,7 +12,7 @@ networks:
       version: "0.10.1"
       date: 2026-11-23
       status: CONFIRMED
-    reported: "0.9.4"
+    reported: "0.10.0"
     migration-id: 4
     serial-id: 7
     successor: null
