@@ -32,7 +32,7 @@ document states.
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DevNet | 0.10.2 | 12 / 14 | 2026-11-16 | 0.8 | 0.10.3 | 2026-11-23 | 0.10.2 |
-| TestNet | 0.10.1 | 9 / 13 | 2026-11-16 | 0.8 | 0.10.2 | 2026-11-23 | 0.10.1 |
+| TestNet | 0.10.1 | 10 / 13 | 2026-11-16 | 0.8 | 0.10.2 | 2026-11-23 | 0.10.1 |
 | MainNet | 0.10.0 | 8 / 13 | 2026-11-16 | 0.8 | 0.10.1 | 2026-11-23 | 0.9.4 |
 
 ## Super Validators
@@ -67,11 +67,11 @@ legacy, and one above it successor.
 
 ### TestNet
 
-13 nodes, serial 4: 9 on 0.10.1, 4 on 0.10.0.
+13 nodes, serial 4: 10 on 0.10.1, 3 on 0.10.0.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
-| C7-Technology-Services-Limited | 0.10.0 | scan.sv-1.test.global.canton.network.c7.digital | 4: sequencer-4.sv-1.test.global.canton.network.c7.digital<br>3: sequencer-3.sv-1.test.global.canton.network.c7.digital *(legacy)* |
+| C7-Technology-Services-Limited | 0.10.1 | scan.sv-1.test.global.canton.network.c7.digital | 4: sequencer-4.sv-1.test.global.canton.network.c7.digital<br>3: sequencer-3.sv-1.test.global.canton.network.c7.digital *(legacy)* |
 | Cumberland-1 | 0.10.0 | scan.sv-1.test.global.canton.network.cumberland.io | 4: sequencer-4.sv-1.test.global.canton.network.cumberland.io<br>3: sequencer-3.sv-1.test.global.canton.network.cumberland.io *(legacy)* |
 | Cumberland-2 | 0.10.0 | scan.sv-2.test.global.canton.network.cumberland.io | 4: sequencer-4.sv-2.test.global.canton.network.cumberland.io<br>3: sequencer-3.sv-2.test.global.canton.network.cumberland.io *(legacy)* |
 | Digital-Asset-1 | 0.10.1 | scan.sv-1.test.global.canton.network.digitalasset.com | 4: sequencer-4.sv-1.test.global.canton.network.digitalasset.com<br>3: sequencer-3.sv-1.test.global.canton.network.digitalasset.com *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-16T17:50:17Z.
+Values as of 2026-11-16T18:19:50Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
