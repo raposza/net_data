@@ -1,4 +1,4 @@
-timestamp: 2026-11-17T00:14:08Z
+timestamp: 2026-11-17T14:12:05Z
 networks:
   mainnet:
     current:
@@ -318,6 +318,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.dev.global.canton.network.c7.digital"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-1.dev.global.canton.network.c7.digital"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.c7.digital"
             role: null
@@ -331,6 +334,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.dev.global.canton.network.cumberland.io"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-1.dev.global.canton.network.cumberland.io"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.cumberland.io"
             role: null
@@ -344,6 +350,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-2.dev.global.canton.network.cumberland.io"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-2.dev.global.canton.network.cumberland.io"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-2.dev.global.canton.network.cumberland.io"
             role: null
@@ -357,6 +366,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv.dev.global.canton.network.digitalasset.com"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv.dev.global.canton.network.digitalasset.com"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv.dev.global.canton.network.digitalasset.com"
             role: null
@@ -367,6 +379,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.dev.global.canton.network.digitalasset.com"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-1.dev.global.canton.network.digitalasset.com"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.digitalasset.com"
             role: null
@@ -377,6 +392,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-2.dev.global.canton.network.digitalasset.com"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-2.dev.global.canton.network.digitalasset.com"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-2.dev.global.canton.network.digitalasset.com"
             role: null
@@ -387,6 +405,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.dev.global.canton.network.fivenorth.io"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-1.dev.global.canton.network.fivenorth.io"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.fivenorth.io"
             role: null
@@ -397,6 +418,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.dev.global.canton.network.sync.global"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-1.dev.global.canton.network.sync.global"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.sync.global"
             role: null
@@ -410,6 +434,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.dev.global.canton.network.lcv.mpch.io"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-1.dev.global.canton.network.lcv.mpch.io"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.lcv.mpch.io"
             role: null
@@ -420,6 +447,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.dev.global.canton.network.mpch.io"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-1.dev.global.canton.network.mpch.io"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.mpch.io"
             role: null
@@ -430,6 +460,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.dev.global.canton.network.orb1lp.mpch.io"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-1.dev.global.canton.network.orb1lp.mpch.io"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.orb1lp.mpch.io"
             role: null
@@ -450,6 +483,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv.dev.global.canton.network.sv-nodeops.com"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv.dev.global.canton.network.sv-nodeops.com"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv.dev.global.canton.network.sv-nodeops.com"
             role: null
@@ -463,6 +499,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.dev.global.canton.network.tradeweb.com"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-1.dev.global.canton.network.tradeweb.com"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.tradeweb.com"
             role: null
