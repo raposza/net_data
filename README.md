@@ -61,7 +61,7 @@ legacy, and one above it successor.
 | Liberty-City-Ventures-1 | 0.10.2 | scan.sv-1.dev.global.canton.network.lcv.mpch.io | 8: sequencer-8.sv-1.dev.global.canton.network.lcv.mpch.io *(successor)*<br>7: sequencer-7.sv-1.dev.global.canton.network.lcv.mpch.io<br>6: sequencer-6.sv-1.dev.global.canton.network.lcv.mpch.io *(legacy)* |
 | MPC-Holding-Inc | 0.10.2 | scan.sv-1.dev.global.canton.network.mpch.io | 8: sequencer-8.sv-1.dev.global.canton.network.mpch.io *(successor)*<br>7: sequencer-7.sv-1.dev.global.canton.network.mpch.io<br>6: sequencer-6.sv-1.dev.global.canton.network.mpch.io *(legacy)* |
 | Orb-1-LP-1 | 0.10.2 | scan.sv-1.dev.global.canton.network.orb1lp.mpch.io | 8: sequencer-8.sv-1.dev.global.canton.network.orb1lp.mpch.io *(successor)*<br>7: sequencer-7.sv-1.dev.global.canton.network.orb1lp.mpch.io<br>6: sequencer-6.sv-1.dev.global.canton.network.orb1lp.mpch.io *(legacy)* |
-| Proof-Group-1 | 0.10.2 | scan.sv-1.dev.global.canton.network.proofgroup.xyz | 7: sequencer-7.sv-1.dev.global.canton.network.proofgroup.xyz<br>6: sequencer-6.sv-1.dev.global.canton.network.proofgroup.xyz *(legacy)* |
+| Proof-Group-1 | 0.10.2 | scan.sv-1.dev.global.canton.network.proofgroup.xyz | 8: sequencer-8.sv-1.dev.global.canton.network.proofgroup.xyz *(successor)*<br>7: sequencer-7.sv-1.dev.global.canton.network.proofgroup.xyz<br>6: sequencer-6.sv-1.dev.global.canton.network.proofgroup.xyz *(legacy)* |
 | SV-Nodeops-Limited | 0.10.2 | scan.sv.dev.global.canton.network.sv-nodeops.com | 8: sequencer-8.sv.dev.global.canton.network.sv-nodeops.com *(successor)*<br>7: sequencer-7.sv.dev.global.canton.network.sv-nodeops.com<br>6: sequencer-6.sv.dev.global.canton.network.sv-nodeops.com *(legacy)*<br>5: sequencer-5.sv.dev.global.canton.network.sv-nodeops.com *(legacy)* |
 | Tradeweb-Markets-1 | 0.10.2 | scan.sv-1.dev.global.canton.network.tradeweb.com | 8: sequencer-8.sv-1.dev.global.canton.network.tradeweb.com *(successor)*<br>7: sequencer-7.sv-1.dev.global.canton.network.tradeweb.com<br>6: sequencer-6.sv-1.dev.global.canton.network.tradeweb.com *(legacy)* |
 
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-17T14:12:05Z.
+Values as of 2026-11-17T14:17:36Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.

@@ -1,4 +1,4 @@
-timestamp: 2026-11-17T14:12:05Z
+timestamp: 2026-11-17T14:17:36Z
 networks:
   mainnet:
     current:
@@ -473,6 +473,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.dev.global.canton.network.proofgroup.xyz"
         sequencers:
+          - serial: 8
+            url: "https://sequencer-8.sv-1.dev.global.canton.network.proofgroup.xyz"
+            role: successor
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.proofgroup.xyz"
             role: null
