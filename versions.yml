@@ -1,4 +1,4 @@
-timestamp: 2026-11-18T16:28:53Z
+timestamp: 2026-11-18T17:54:15Z
 networks:
   mainnet:
     current:
@@ -482,9 +482,6 @@ networks:
           - serial: 7
             url: "https://sequencer-7.sv-1.dev.global.canton.network.proofgroup.xyz"
             role: null
-          - serial: 6
-            url: "https://sequencer-6.sv-1.dev.global.canton.network.proofgroup.xyz"
-            role: legacy
       - name: "SV-Nodeops-Limited"
         version: "0.10.2"
         scan: "https://scan.sv.dev.global.canton.network.sv-nodeops.com"
