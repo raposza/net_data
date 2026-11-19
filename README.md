@@ -50,7 +50,7 @@ legacy, and one above it successor.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
-| C7-Technology-Services-Limited | 0.10.2 | scan.sv-1.dev.global.canton.network.c7.digital | 8: sequencer-8.sv-1.dev.global.canton.network.c7.digital<br>7: sequencer-7.sv-1.dev.global.canton.network.c7.digital *(legacy)*<br>6: sequencer-6.sv-1.dev.global.canton.network.c7.digital *(legacy)*<br>5: sequencer-5.sv-1.dev.global.canton.network.c7.digital *(legacy)* |
+| C7-Technology-Services-Limited | 0.10.2 | scan.sv-1.dev.global.canton.network.c7.digital | 8: sequencer-8.sv-1.dev.global.canton.network.c7.digital<br>7: sequencer-7.sv-1.dev.global.canton.network.c7.digital *(legacy)*<br>6: sequencer-6.sv-1.dev.global.canton.network.c7.digital *(legacy)* |
 | Cumberland-1 | 0.10.2 | scan.sv-1.dev.global.canton.network.cumberland.io | 8: sequencer-8.sv-1.dev.global.canton.network.cumberland.io<br>7: sequencer-7.sv-1.dev.global.canton.network.cumberland.io *(legacy)*<br>6: sequencer-6.sv-1.dev.global.canton.network.cumberland.io *(legacy)*<br>5: sequencer-5.sv-1.dev.global.canton.network.cumberland.io *(legacy)* |
 | Cumberland-2 | 0.10.2 | scan.sv-2.dev.global.canton.network.cumberland.io | 8: sequencer-8.sv-2.dev.global.canton.network.cumberland.io<br>7: sequencer-7.sv-2.dev.global.canton.network.cumberland.io *(legacy)*<br>6: sequencer-6.sv-2.dev.global.canton.network.cumberland.io *(legacy)*<br>5: sequencer-5.sv-2.dev.global.canton.network.cumberland.io *(legacy)* |
 | DA-Helm-Test-Node | 0.10.2 | scan.sv.dev.global.canton.network.digitalasset.com | 8: sequencer-8.sv.dev.global.canton.network.digitalasset.com<br>7: sequencer-7.sv.dev.global.canton.network.digitalasset.com *(legacy)*<br>6: sequencer-6.sv.dev.global.canton.network.digitalasset.com *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-19T10:04:00Z.
+Values as of 2026-11-19T10:09:32Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
