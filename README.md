@@ -31,7 +31,7 @@ document states.
 
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DevNet | 0.10.3 | 8 / 14 | 2026-11-23 | 0.8 | 0.10.4 | 2026-11-30 | 0.10.3 |
+| DevNet | 0.10.3 | 9 / 14 | 2026-11-23 | 0.8 | 0.10.4 | 2026-11-30 | 0.10.3 |
 | TestNet | 0.10.2 | 8 / 13 | 2026-11-23 | 0.8 | 0.10.3 | 2026-11-30 | 0.10.2 |
 | MainNet | 0.10.1 | 6 / 13 | 2026-11-23 | 0.8 | 0.10.2 | 2026-11-30 | 0.10.1 |
 
@@ -46,12 +46,12 @@ legacy, and one above it successor.
 
 ### DevNet
 
-14 nodes, serial 8: 8 on 0.10.3, 6 on 0.10.2.
+14 nodes, serial 8: 9 on 0.10.3, 5 on 0.10.2.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
 | C7-Technology-Services-Limited | 0.10.3 | scan.sv-1.dev.global.canton.network.c7.digital | 8: sequencer-8.sv-1.dev.global.canton.network.c7.digital<br>7: sequencer-7.sv-1.dev.global.canton.network.c7.digital *(legacy)*<br>6: sequencer-6.sv-1.dev.global.canton.network.c7.digital *(legacy)* |
-| Cumberland-1 | 0.10.2 | scan.sv-1.dev.global.canton.network.cumberland.io | 8: sequencer-8.sv-1.dev.global.canton.network.cumberland.io<br>7: sequencer-7.sv-1.dev.global.canton.network.cumberland.io *(legacy)*<br>6: sequencer-6.sv-1.dev.global.canton.network.cumberland.io *(legacy)*<br>5: sequencer-5.sv-1.dev.global.canton.network.cumberland.io *(legacy)* |
+| Cumberland-1 | 0.10.3 | scan.sv-1.dev.global.canton.network.cumberland.io | 8: sequencer-8.sv-1.dev.global.canton.network.cumberland.io<br>7: sequencer-7.sv-1.dev.global.canton.network.cumberland.io *(legacy)*<br>6: sequencer-6.sv-1.dev.global.canton.network.cumberland.io *(legacy)*<br>5: sequencer-5.sv-1.dev.global.canton.network.cumberland.io *(legacy)* |
 | Cumberland-2 | 0.10.3 | scan.sv-2.dev.global.canton.network.cumberland.io | 8: sequencer-8.sv-2.dev.global.canton.network.cumberland.io<br>7: sequencer-7.sv-2.dev.global.canton.network.cumberland.io *(legacy)*<br>6: sequencer-6.sv-2.dev.global.canton.network.cumberland.io *(legacy)*<br>5: sequencer-5.sv-2.dev.global.canton.network.cumberland.io *(legacy)* |
 | DA-Helm-Test-Node | 0.10.3 | scan.sv.dev.global.canton.network.digitalasset.com | 8: sequencer-8.sv.dev.global.canton.network.digitalasset.com<br>7: sequencer-7.sv.dev.global.canton.network.digitalasset.com *(legacy)*<br>6: sequencer-6.sv.dev.global.canton.network.digitalasset.com *(legacy)* |
 | Digital-Asset-1 | 0.10.3 | scan.sv-1.dev.global.canton.network.digitalasset.com | 8: sequencer-8.sv-1.dev.global.canton.network.digitalasset.com<br>7: sequencer-7.sv-1.dev.global.canton.network.digitalasset.com *(legacy)*<br>6: sequencer-6.sv-1.dev.global.canton.network.digitalasset.com *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-23T18:28:00Z.
+Values as of 2026-11-23T18:33:33Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
