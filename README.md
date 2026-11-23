@@ -31,7 +31,7 @@ document states.
 
 | Network | Current (scheduled) | SVs on it | Since | Minimum | Next | Due | Reported |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DevNet | 0.10.3 | 9 / 14 | 2026-11-23 | 0.8 | 0.10.4 | 2026-11-30 | 0.10.3 |
+| DevNet | 0.10.3 | 10 / 14 | 2026-11-23 | 0.8 | 0.10.4 | 2026-11-30 | 0.10.3 |
 | TestNet | 0.10.2 | 8 / 13 | 2026-11-23 | 0.8 | 0.10.3 | 2026-11-30 | 0.10.2 |
 | MainNet | 0.10.1 | 6 / 13 | 2026-11-23 | 0.8 | 0.10.2 | 2026-11-30 | 0.10.1 |
 
@@ -46,7 +46,7 @@ legacy, and one above it successor.
 
 ### DevNet
 
-14 nodes, serial 8: 9 on 0.10.3, 5 on 0.10.2.
+14 nodes, serial 8: 10 on 0.10.3, 4 on 0.10.2.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ legacy, and one above it successor.
 | Orb-1-LP-1 | 0.10.2 | scan.sv-1.dev.global.canton.network.orb1lp.mpch.io | 8: sequencer-8.sv-1.dev.global.canton.network.orb1lp.mpch.io<br>7: sequencer-7.sv-1.dev.global.canton.network.orb1lp.mpch.io *(legacy)*<br>6: sequencer-6.sv-1.dev.global.canton.network.orb1lp.mpch.io *(legacy)* |
 | Proof-Group-1 | 0.10.3 | scan.sv-1.dev.global.canton.network.proofgroup.xyz | 8: sequencer-8.sv-1.dev.global.canton.network.proofgroup.xyz<br>7: sequencer-7.sv-1.dev.global.canton.network.proofgroup.xyz *(legacy)* |
 | SV-Nodeops-Limited | 0.10.2 | scan.sv.dev.global.canton.network.sv-nodeops.com | 8: sequencer-8.sv.dev.global.canton.network.sv-nodeops.com<br>7: sequencer-7.sv.dev.global.canton.network.sv-nodeops.com *(legacy)*<br>6: sequencer-6.sv.dev.global.canton.network.sv-nodeops.com *(legacy)*<br>5: sequencer-5.sv.dev.global.canton.network.sv-nodeops.com *(legacy)* |
-| Tradeweb-Markets-1 | 0.10.2 | scan.sv-1.dev.global.canton.network.tradeweb.com | 8: sequencer-8.sv-1.dev.global.canton.network.tradeweb.com<br>7: sequencer-7.sv-1.dev.global.canton.network.tradeweb.com *(legacy)*<br>6: sequencer-6.sv-1.dev.global.canton.network.tradeweb.com *(legacy)* |
+| Tradeweb-Markets-1 | 0.10.3 | scan.sv-1.dev.global.canton.network.tradeweb.com | 8: sequencer-8.sv-1.dev.global.canton.network.tradeweb.com<br>7: sequencer-7.sv-1.dev.global.canton.network.tradeweb.com *(legacy)*<br>6: sequencer-6.sv-1.dev.global.canton.network.tradeweb.com *(legacy)* |
 
 ### TestNet
 
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-23T18:33:33Z.
+Values as of 2026-11-23T18:39:06Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
