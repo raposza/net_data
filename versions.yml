@@ -1,11 +1,11 @@
-timestamp: 2026-11-24T13:57:02Z
+timestamp: 2026-11-24T13:58:09Z
 networks:
   mainnet:
     current:
       version: "0.10.1"
       since: 2026-11-23
     svs-on-current:
-      count: 10
+      count: 11
       of: 13
     minimum: "0.8"
     next:
@@ -112,7 +112,7 @@ networks:
             url: "https://sequencer-6.sv-1.global.canton.network.mpch.io"
             role: legacy
       - name: "Orb-1-LP-1"
-        version: "0.10.0"
+        version: "0.10.1"
         scan: "https://scan.sv-1.global.canton.network.orb1lp.mpch.io"
         sequencers:
           - serial: 7
