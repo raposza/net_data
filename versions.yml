@@ -1,11 +1,11 @@
-timestamp: 2026-11-24T13:59:16Z
+timestamp: 2026-11-24T14:03:47Z
 networks:
   mainnet:
     current:
       version: "0.10.1"
       since: 2026-11-23
     svs-on-current:
-      count: 11
+      count: 12
       of: 13
     minimum: "0.8"
     next:
@@ -89,7 +89,7 @@ networks:
             url: "https://sequencer-6.sv-1.global.canton.network.sync.global"
             role: legacy
       - name: "Liberty-City-Ventures-1"
-        version: "0.10.0"
+        version: "0.10.1"
         scan: "https://scan.sv-1.global.canton.network.lcv.mpch.io"
         sequencers:
           - serial: 7
