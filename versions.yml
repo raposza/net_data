@@ -1,4 +1,4 @@
-timestamp: 2026-11-24T14:08:18Z
+timestamp: 2026-11-24T14:11:41Z
 networks:
   mainnet:
     current:
@@ -176,6 +176,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.test.global.canton.network.c7.digital"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv-1.test.global.canton.network.c7.digital"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv-1.test.global.canton.network.c7.digital"
             role: null
@@ -186,6 +189,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.test.global.canton.network.cumberland.io"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv-1.test.global.canton.network.cumberland.io"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv-1.test.global.canton.network.cumberland.io"
             role: null
@@ -196,6 +202,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-2.test.global.canton.network.cumberland.io"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv-2.test.global.canton.network.cumberland.io"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv-2.test.global.canton.network.cumberland.io"
             role: null
@@ -206,6 +215,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.test.global.canton.network.digitalasset.com"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv-1.test.global.canton.network.digitalasset.com"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv-1.test.global.canton.network.digitalasset.com"
             role: null
@@ -216,6 +228,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-2.test.global.canton.network.digitalasset.com"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv-2.test.global.canton.network.digitalasset.com"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv-2.test.global.canton.network.digitalasset.com"
             role: null
@@ -226,6 +241,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.test.global.canton.network.fivenorth.io"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv-1.test.global.canton.network.fivenorth.io"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv-1.test.global.canton.network.fivenorth.io"
             role: null
@@ -236,6 +254,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.test.global.canton.network.sync.global"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv-1.test.global.canton.network.sync.global"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv-1.test.global.canton.network.sync.global"
             role: null
@@ -246,6 +267,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.test.global.canton.network.lcv.mpch.io"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv-1.test.global.canton.network.lcv.mpch.io"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv-1.test.global.canton.network.lcv.mpch.io"
             role: null
@@ -256,6 +280,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.test.global.canton.network.mpch.io"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv-1.test.global.canton.network.mpch.io"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv-1.test.global.canton.network.mpch.io"
             role: null
@@ -266,6 +293,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv-1.test.global.canton.network.orb1lp.mpch.io"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv-1.test.global.canton.network.orb1lp.mpch.io"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv-1.test.global.canton.network.orb1lp.mpch.io"
             role: null
@@ -283,6 +313,9 @@ networks:
         version: "0.10.2"
         scan: "https://scan.sv.test.global.canton.network.sv-nodeops.com"
         sequencers:
+          - serial: 5
+            url: "https://sequencer-5.sv.test.global.canton.network.sv-nodeops.com"
+            role: successor
           - serial: 4
             url: "https://sequencer-4.sv.test.global.canton.network.sv-nodeops.com"
             role: null

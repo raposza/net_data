@@ -71,18 +71,18 @@ legacy, and one above it successor.
 
 | Super Validator | Version | Scan | Sequencers |
 | --- | --- | --- | --- |
-| C7-Technology-Services-Limited | 0.10.2 | scan.sv-1.test.global.canton.network.c7.digital | 4: sequencer-4.sv-1.test.global.canton.network.c7.digital<br>3: sequencer-3.sv-1.test.global.canton.network.c7.digital *(legacy)* |
-| Cumberland-1 | 0.10.2 | scan.sv-1.test.global.canton.network.cumberland.io | 4: sequencer-4.sv-1.test.global.canton.network.cumberland.io<br>3: sequencer-3.sv-1.test.global.canton.network.cumberland.io *(legacy)* |
-| Cumberland-2 | 0.10.2 | scan.sv-2.test.global.canton.network.cumberland.io | 4: sequencer-4.sv-2.test.global.canton.network.cumberland.io<br>3: sequencer-3.sv-2.test.global.canton.network.cumberland.io *(legacy)* |
-| Digital-Asset-1 | 0.10.2 | scan.sv-1.test.global.canton.network.digitalasset.com | 4: sequencer-4.sv-1.test.global.canton.network.digitalasset.com<br>3: sequencer-3.sv-1.test.global.canton.network.digitalasset.com *(legacy)* |
-| Digital-Asset-2 | 0.10.2 | scan.sv-2.test.global.canton.network.digitalasset.com | 4: sequencer-4.sv-2.test.global.canton.network.digitalasset.com<br>3: sequencer-3.sv-2.test.global.canton.network.digitalasset.com *(legacy)* |
-| Five-North-1 | 0.10.2 | scan.sv-1.test.global.canton.network.fivenorth.io | 4: sequencer-4.sv-1.test.global.canton.network.fivenorth.io<br>3: sequencer-3.sv-1.test.global.canton.network.fivenorth.io *(legacy)* |
-| Global-Synchronizer-Foundation | 0.10.2 | scan.sv-1.test.global.canton.network.sync.global | 4: sequencer-4.sv-1.test.global.canton.network.sync.global<br>3: sequencer-3.sv-1.test.global.canton.network.sync.global *(legacy)* |
-| Liberty-City-Ventures-1 | 0.10.2 | scan.sv-1.test.global.canton.network.lcv.mpch.io | 4: sequencer-4.sv-1.test.global.canton.network.lcv.mpch.io<br>3: sequencer-3.sv-1.test.global.canton.network.lcv.mpch.io *(legacy)* |
-| MPC-Holding-Inc | 0.10.2 | scan.sv-1.test.global.canton.network.mpch.io | 4: sequencer-4.sv-1.test.global.canton.network.mpch.io<br>3: sequencer-3.sv-1.test.global.canton.network.mpch.io *(legacy)* |
-| Orb-1-LP-1 | 0.10.2 | scan.sv-1.test.global.canton.network.orb1lp.mpch.io | 4: sequencer-4.sv-1.test.global.canton.network.orb1lp.mpch.io<br>3: sequencer-3.sv-1.test.global.canton.network.orb1lp.mpch.io *(legacy)* |
+| C7-Technology-Services-Limited | 0.10.2 | scan.sv-1.test.global.canton.network.c7.digital | 5: sequencer-5.sv-1.test.global.canton.network.c7.digital *(successor)*<br>4: sequencer-4.sv-1.test.global.canton.network.c7.digital<br>3: sequencer-3.sv-1.test.global.canton.network.c7.digital *(legacy)* |
+| Cumberland-1 | 0.10.2 | scan.sv-1.test.global.canton.network.cumberland.io | 5: sequencer-5.sv-1.test.global.canton.network.cumberland.io *(successor)*<br>4: sequencer-4.sv-1.test.global.canton.network.cumberland.io<br>3: sequencer-3.sv-1.test.global.canton.network.cumberland.io *(legacy)* |
+| Cumberland-2 | 0.10.2 | scan.sv-2.test.global.canton.network.cumberland.io | 5: sequencer-5.sv-2.test.global.canton.network.cumberland.io *(successor)*<br>4: sequencer-4.sv-2.test.global.canton.network.cumberland.io<br>3: sequencer-3.sv-2.test.global.canton.network.cumberland.io *(legacy)* |
+| Digital-Asset-1 | 0.10.2 | scan.sv-1.test.global.canton.network.digitalasset.com | 5: sequencer-5.sv-1.test.global.canton.network.digitalasset.com *(successor)*<br>4: sequencer-4.sv-1.test.global.canton.network.digitalasset.com<br>3: sequencer-3.sv-1.test.global.canton.network.digitalasset.com *(legacy)* |
+| Digital-Asset-2 | 0.10.2 | scan.sv-2.test.global.canton.network.digitalasset.com | 5: sequencer-5.sv-2.test.global.canton.network.digitalasset.com *(successor)*<br>4: sequencer-4.sv-2.test.global.canton.network.digitalasset.com<br>3: sequencer-3.sv-2.test.global.canton.network.digitalasset.com *(legacy)* |
+| Five-North-1 | 0.10.2 | scan.sv-1.test.global.canton.network.fivenorth.io | 5: sequencer-5.sv-1.test.global.canton.network.fivenorth.io *(successor)*<br>4: sequencer-4.sv-1.test.global.canton.network.fivenorth.io<br>3: sequencer-3.sv-1.test.global.canton.network.fivenorth.io *(legacy)* |
+| Global-Synchronizer-Foundation | 0.10.2 | scan.sv-1.test.global.canton.network.sync.global | 5: sequencer-5.sv-1.test.global.canton.network.sync.global *(successor)*<br>4: sequencer-4.sv-1.test.global.canton.network.sync.global<br>3: sequencer-3.sv-1.test.global.canton.network.sync.global *(legacy)* |
+| Liberty-City-Ventures-1 | 0.10.2 | scan.sv-1.test.global.canton.network.lcv.mpch.io | 5: sequencer-5.sv-1.test.global.canton.network.lcv.mpch.io *(successor)*<br>4: sequencer-4.sv-1.test.global.canton.network.lcv.mpch.io<br>3: sequencer-3.sv-1.test.global.canton.network.lcv.mpch.io *(legacy)* |
+| MPC-Holding-Inc | 0.10.2 | scan.sv-1.test.global.canton.network.mpch.io | 5: sequencer-5.sv-1.test.global.canton.network.mpch.io *(successor)*<br>4: sequencer-4.sv-1.test.global.canton.network.mpch.io<br>3: sequencer-3.sv-1.test.global.canton.network.mpch.io *(legacy)* |
+| Orb-1-LP-1 | 0.10.2 | scan.sv-1.test.global.canton.network.orb1lp.mpch.io | 5: sequencer-5.sv-1.test.global.canton.network.orb1lp.mpch.io *(successor)*<br>4: sequencer-4.sv-1.test.global.canton.network.orb1lp.mpch.io<br>3: sequencer-3.sv-1.test.global.canton.network.orb1lp.mpch.io *(legacy)* |
 | Proof-Group-1 | 0.10.2 | scan.sv-1.test.global.canton.network.proofgroup.xyz | 4: sequencer-4.sv-1.test.global.canton.network.proofgroup.xyz |
-| SV-Nodeops-Limited | 0.10.2 | scan.sv.test.global.canton.network.sv-nodeops.com | 4: sequencer-4.sv.test.global.canton.network.sv-nodeops.com<br>3: sequencer-3.sv.test.global.canton.network.sv-nodeops.com *(legacy)* |
+| SV-Nodeops-Limited | 0.10.2 | scan.sv.test.global.canton.network.sv-nodeops.com | 5: sequencer-5.sv.test.global.canton.network.sv-nodeops.com *(successor)*<br>4: sequencer-4.sv.test.global.canton.network.sv-nodeops.com<br>3: sequencer-3.sv.test.global.canton.network.sv-nodeops.com *(legacy)* |
 | Tradeweb-Markets-1 | 0.10.2 | scan.sv.test.global.canton.network.tradeweb.com | 4: sequencer-4.sv.test.global.canton.network.tradeweb.com<br>3: sequencer-3.sv.test.global.canton.network.tradeweb.com *(legacy)* |
 
 ### MainNet
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-24T14:08:18Z.
+Values as of 2026-11-24T14:11:41Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
