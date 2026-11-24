@@ -83,7 +83,7 @@ legacy, and one above it successor.
 | Orb-1-LP-1 | 0.10.2 | scan.sv-1.test.global.canton.network.orb1lp.mpch.io | 5: sequencer-5.sv-1.test.global.canton.network.orb1lp.mpch.io *(successor)*<br>4: sequencer-4.sv-1.test.global.canton.network.orb1lp.mpch.io<br>3: sequencer-3.sv-1.test.global.canton.network.orb1lp.mpch.io *(legacy)* |
 | Proof-Group-1 | 0.10.2 | scan.sv-1.test.global.canton.network.proofgroup.xyz | 4: sequencer-4.sv-1.test.global.canton.network.proofgroup.xyz |
 | SV-Nodeops-Limited | 0.10.2 | scan.sv.test.global.canton.network.sv-nodeops.com | 5: sequencer-5.sv.test.global.canton.network.sv-nodeops.com *(successor)*<br>4: sequencer-4.sv.test.global.canton.network.sv-nodeops.com<br>3: sequencer-3.sv.test.global.canton.network.sv-nodeops.com *(legacy)* |
-| Tradeweb-Markets-1 | 0.10.2 | scan.sv.test.global.canton.network.tradeweb.com | 4: sequencer-4.sv.test.global.canton.network.tradeweb.com<br>3: sequencer-3.sv.test.global.canton.network.tradeweb.com *(legacy)* |
+| Tradeweb-Markets-1 | 0.10.2 | scan.sv.test.global.canton.network.tradeweb.com | 5: sequencer-5.sv.test.global.canton.network.tradeweb.com *(successor)*<br>4: sequencer-4.sv.test.global.canton.network.tradeweb.com |
 
 ### MainNet
 
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-24T14:11:41Z.
+Values as of 2026-11-24T15:07:16Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
