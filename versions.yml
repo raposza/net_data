@@ -1,11 +1,11 @@
-timestamp: 2026-11-24T13:23:42Z
+timestamp: 2026-11-24T13:24:49Z
 networks:
   mainnet:
     current:
       version: "0.10.1"
       since: 2026-11-23
     svs-on-current:
-      count: 9
+      count: 10
       of: 13
     minimum: "0.8"
     next:
@@ -102,7 +102,7 @@ networks:
             url: "https://sequencer-5.sv-1.global.canton.network.lcv.mpch.io"
             role: legacy
       - name: "MPC-Holding-Inc"
-        version: "0.10.0"
+        version: "0.10.1"
         scan: "https://scan.sv-1.global.canton.network.mpch.io"
         sequencers:
           - serial: 7
