@@ -1,4 +1,4 @@
-timestamp: 2026-11-26T08:39:36Z
+timestamp: 2026-11-26T09:07:17Z
 networks:
   mainnet:
     current:
@@ -244,6 +244,9 @@ networks:
           - serial: 5
             url: "https://sequencer-5.sv-1.test.global.canton.network.fivenorth.io"
             role: null
+          - serial: 4
+            url: "https://sequencer-4.sv-1.test.global.canton.network.fivenorth.io"
+            role: legacy
       - name: "Global-Synchronizer-Foundation"
         version: "0.10.2"
         scan: "https://scan.sv-1.test.global.canton.network.sync.global"
