@@ -1,4 +1,4 @@
-timestamp: 2026-11-26T09:07:17Z
+timestamp: 2026-11-26T16:11:52Z
 networks:
   mainnet:
     current:
@@ -532,4 +532,4 @@ networks:
           - serial: 6
             url: "https://sequencer-6.sv-1.dev.global.canton.network.tradeweb.com"
             role: legacy
-splice-latest: "0.10.3"
+splice-latest: "0.10.4"
