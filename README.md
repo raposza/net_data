@@ -76,7 +76,7 @@ legacy, and one above it successor.
 | Cumberland-2 | 0.10.2 | scan.sv-2.test.global.canton.network.cumberland.io | 5: sequencer-5.sv-2.test.global.canton.network.cumberland.io<br>4: sequencer-4.sv-2.test.global.canton.network.cumberland.io *(legacy)*<br>3: sequencer-3.sv-2.test.global.canton.network.cumberland.io *(legacy)* |
 | Digital-Asset-1 | 0.10.2 | scan.sv-1.test.global.canton.network.digitalasset.com | 5: sequencer-5.sv-1.test.global.canton.network.digitalasset.com<br>4: sequencer-4.sv-1.test.global.canton.network.digitalasset.com *(legacy)*<br>3: sequencer-3.sv-1.test.global.canton.network.digitalasset.com *(legacy)* |
 | Digital-Asset-2 | 0.10.2 | scan.sv-2.test.global.canton.network.digitalasset.com | 5: sequencer-5.sv-2.test.global.canton.network.digitalasset.com<br>4: sequencer-4.sv-2.test.global.canton.network.digitalasset.com *(legacy)*<br>3: sequencer-3.sv-2.test.global.canton.network.digitalasset.com *(legacy)* |
-| Five-North-1 | 0.10.2 | scan.sv-1.test.global.canton.network.fivenorth.io | 5: sequencer-5.sv-1.test.global.canton.network.fivenorth.io<br>4: sequencer-4.sv-1.test.global.canton.network.fivenorth.io *(legacy)*<br>3: sequencer-3.sv-1.test.global.canton.network.fivenorth.io *(legacy)* |
+| Five-North-1 | 0.10.2 | scan.sv-1.test.global.canton.network.fivenorth.io | 5: sequencer-5.sv-1.test.global.canton.network.fivenorth.io |
 | Global-Synchronizer-Foundation | 0.10.2 | scan.sv-1.test.global.canton.network.sync.global | 5: sequencer-5.sv-1.test.global.canton.network.sync.global<br>4: sequencer-4.sv-1.test.global.canton.network.sync.global *(legacy)*<br>3: sequencer-3.sv-1.test.global.canton.network.sync.global *(legacy)* |
 | Liberty-City-Ventures-1 | 0.10.2 | scan.sv-1.test.global.canton.network.lcv.mpch.io | 5: sequencer-5.sv-1.test.global.canton.network.lcv.mpch.io<br>4: sequencer-4.sv-1.test.global.canton.network.lcv.mpch.io *(legacy)*<br>3: sequencer-3.sv-1.test.global.canton.network.lcv.mpch.io *(legacy)* |
 | MPC-Holding-Inc | 0.10.2 | scan.sv-1.test.global.canton.network.mpch.io | 5: sequencer-5.sv-1.test.global.canton.network.mpch.io<br>4: sequencer-4.sv-1.test.global.canton.network.mpch.io *(legacy)*<br>3: sequencer-3.sv-1.test.global.canton.network.mpch.io *(legacy)* |
@@ -129,7 +129,7 @@ legacy, and one above it successor.
 
 ---
 
-Values as of 2026-11-26T04:22:11Z.
+Values as of 2026-11-26T08:39:36Z.
 A commit is made only when something shown here changes, so this is when a
 value last moved, not when the feed last checked. The `heartbeat` branch says
 the writer is alive.
